@@ -32,6 +32,7 @@ Jailbreaking leading safety-aligned llms with simple adaptive attacks
 | 2024.06 | **When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search (RLbreaker)** |   arXiv    | [link](https://arxiv.org/pdf/2406.08705) |                              -                               |
 | 2024.06 | **A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily (ReNeLLM)** |   NAACL    | [link](https://arxiv.org/abs/2311.08268) |                              [link](https://github.com/NJUNLP/ReNeLLM)                               |
 | 2024.06 | **QROA: A Black-Box Query-Response Optimization Attack on LLMs (QROA)** |   arXiv    | [link](https://arxiv.org/abs/2406.02044) |                              [link](https://github.com/qroa/qroa)                               |
+| 2024.05 | **Multilingual Jailbreak Challenges in Large Language Models** |   ICLR    | [link](https://arxiv.org/pdf/2310.06474)  |                              [link](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)                               |
 | 2024.05 | **GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation (IRIS)** |   ACL    | [link](https://arxiv.org/abs/2405.13077) |                              -                               |
 | 2024.02 | **PAL: Proxy-Guided Black-Box Attack on Large Language Models (PAL)** |   arXiv    | [link](https://arxiv.org/abs/2402.09674) |                              [link](https://github.com/chawins/pal)                               |
 | 2024.01 | **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs (PAP)** |   arXiv    | [link](https://arxiv.org/pdf/2401.06373) |                              [link](https://github.com/CHATS-lab/persuasive_jailbreaker)                               |
@@ -47,15 +48,17 @@ Jailbreaking leading safety-aligned llms with simple adaptive attacks
 
 ### Jailbreak Defense
 
-
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.06 | **A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily (ReNeLLM)** |   NAACL    | [link](https://arxiv.org/abs/2311.08268) |                              [link](https://github.com/NJUNLP/ReNeLLM)                               |
+| 2024.05 | **Multilingual Jailbreak Challenges in Large Language Models** |   ICLR    | [link](https://arxiv.org/pdf/2310.06474)  |                              [link](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)                               |
+| 2024.01 | **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs (PAP)** |   arXiv    | [link](https://arxiv.org/pdf/2401.06373) |                              [link](https://github.com/CHATS-lab/persuasive_jailbreaker)                               |
 
 
-Smoothllm: Defending large language models against
-jailbreaking attacks
+<!-- Smoothllm: Defending large language models against jailbreaking attacks
 
 
-Jailbreak and guard aligned language models with only few in-context demonstrations
+
 
 Many-shot jailbreaking
 
@@ -91,8 +94,34 @@ AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Len
 
 Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis
 
-GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation (IRIS)
 
+--
+Gpt-4 is too smart to be safe: Stealthy chat with llms via cipher (读)
 
+Low-resource languages jailbreak gpt-4
+：
+low-resource language
+--
 
+---
+Use of llms for illicit purposes: Threats, prevention measures, and vulnerabilities
+Exploiting programmatic behavior of llms: Dual-use through standard security attacks
 
+：
+
+use programmatic behaviors, such as code injection
+and virtualization, to expose LLM vulnerabilities.
+---
+
+Jailbreaker: Automated jailbreak across multiple large language model chatbots (读)
+
+--
+Jailbreak and guard aligned language models with only few in-context demonstrations
+Adversarial demonstration attacks on large language models
+:
+in-context persona
+--
+
+Automatically auditing large language models via discrete optimization (ARCA)
+maybe gradient
+ -->
