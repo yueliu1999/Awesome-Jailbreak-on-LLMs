@@ -38,6 +38,7 @@ Jailbreaking leading safety-aligned llms with simple adaptive attacks
 | 2024.01 | **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs (PAP)** |   arXiv    | [link](https://arxiv.org/pdf/2401.06373) |                              [link](https://github.com/CHATS-lab/persuasive_jailbreaker)                               |
 | 2023.12 | **Tree of Attacks: Jailbreaking Black-Box LLMs Automatically (TAP)** |   arXiv    | [link](https://arxiv.org/abs/2312.02119) |                              [link](https://github.com/RICommunity/TAP)                               |
 | 2023.10 | **Jailbreaking Black Box Large Language Models in Twenty Queries (PAIR)** |   arXiv    | [link](https://arxiv.org/pdf/2310.08419) |                              [link](https://github.com/patrickrchao/JailbreakingLLMs)                               |
+| 2023.09 | **Multi-step Jailbreaking Privacy Attacks on ChatGPT (MJP)** |   EMNLP Findings    | [link](https://arxiv.org/pdf/2304.05197) |                              [link](https://github.com/HKUST-KnowComp/LLM-Multistep-Jailbreak)                                |
 | 2023.09 | **Open Sesame! Universal Black Box Jailbreaking of Large Language Models (Open Sesame)** |   arXiv    | [link](https://arxiv.org/abs/2309.01446) |                              -                               |
 | 2023.09 | **GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts (GPTFuzz)** |   arXiv    | [link](https://arxiv.org/abs/2309.10253) |                              [link](https://github.com/sherdencooper/GPTFuzz)                               |
 
@@ -55,73 +56,18 @@ Jailbreaking leading safety-aligned llms with simple adaptive attacks
 | 2024.01 | **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs (PAP)** |   arXiv    | [link](https://arxiv.org/pdf/2401.06373) |                              [link](https://github.com/CHATS-lab/persuasive_jailbreaker)                               |
 
 
-<!-- Smoothllm: Defending large language models against jailbreaking attacks
+
+### Evaluation \& Analysis
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.06 | **JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models (JailbreakEval)** |   arXiv    | [link](https://arxiv.org/pdf/2406.09321) |                              [link](https://github.com/ThuCCSLab/JailbreakEval)                               |
+| 2023.07 | **Universal and Transferable Adversarial Attacks on Aligned Language Models (AdvBench)** |   arXiv    | [link](https://arxiv.org/pdf/2307.15043)  |                              [link](https://github.com/llm-attacks/llm-attacks)                               |
 
 
 
 
-Many-shot jailbreaking
 
 
 
-Jailbreaking chatgpt via prompt engineering: An empirical study
-
-Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks
-
-" do anything now": Characterizing and evaluating in-the-wild jailbreak prompts on large language models
-
-JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models
-
-Multi-step jailbreaking privacy attacks on chatgpt
-
-Red teaming language models with language models
-
-Jailbreaking gpt-4v via self-adversarial attacks with system prompts
-
-Prompt Injection attack against LLM-integrated Applications
 
 
-Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt
-
-Cold-attack: Jailbreaking llms with stealthiness and controllability
-
-Autodefense: Multi-agent llm defense against jailbreak attacks
-
-Voice Jailbreak Attacks Against GPT-4o
-
-AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens
-
-
-Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis
-
-
---
-Gpt-4 is too smart to be safe: Stealthy chat with llms via cipher (读)
-
-Low-resource languages jailbreak gpt-4
-：
-low-resource language
---
-
----
-Use of llms for illicit purposes: Threats, prevention measures, and vulnerabilities
-Exploiting programmatic behavior of llms: Dual-use through standard security attacks
-
-：
-
-use programmatic behaviors, such as code injection
-and virtualization, to expose LLM vulnerabilities.
----
-
-Jailbreaker: Automated jailbreak across multiple large language model chatbots (读)
-
---
-Jailbreak and guard aligned language models with only few in-context demonstrations
-Adversarial demonstration attacks on large language models
-:
-in-context persona
---
-
-Automatically auditing large language models via discrete optimization (ARCA)
-maybe gradient
- -->
