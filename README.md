@@ -52,20 +52,19 @@
 
 #### Multi-modal Attack
 
-多模态
-(Ab) using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs
-Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models
-
-Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models
-
-Visual adversarial examples jailbreak aligned large language models
-
-Image hijacks: Adversarial images can control generative models at runtime
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.05 | **Voice Jailbreak Attacks Against GPT-4o** |   arXiv    | [link](https://arxiv.org/pdf/2405.19103) |                              [link](https://github.com/TrustAIRLab/VoiceJailbreakAttack)                               |
+| 2024.04 | **Image hijacks: Adversarial images can control generative models at runtime** |   arXiv    | [link](https://arxiv.org/pdf/2309.00236) |                              [link](https://github.com/euanong/image-hijacks)                               |
+| 2024.01 | **Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts** |   arXiv    | [link](https://arxiv.org/pdf/2311.09127) |                             -                          |
+| 2024.03 | **Visual Adversarial Examples Jailbreak Aligned Large Language Models** |   AAAI    | [link](https://ojs.aaai.org/index.php/AAAI/article/view/30150/32038) |                              -                               |
+| 2023.10 | **Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2307.14539) |                              -                               |
 
 
-Jailbreaking gpt-4v via self-adversarial attacks with system prompts
 
-Voice Jailbreak Attacks Against GPT-4o
+
+
+
 
 
 
