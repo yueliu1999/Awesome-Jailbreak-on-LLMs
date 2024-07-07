@@ -1,9 +1,6 @@
 # Awesome-Jailbreak-on-LLMs
 
-Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, and evaluations. Any additional things regarding jailbreak are welcome. Any problems, please contact yueliu19990731@163.com. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
-
-
-
+Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding jailbreak, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yliu@u.nus.edu. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
 
 
 
@@ -49,11 +46,17 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
+
+
+
 #### Black-box Attack
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.06 | **When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search (RLbreaker)** |   arXiv    | [link](https://arxiv.org/pdf/2406.08705) |                              -                               |
+| 2024.06 | **ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs (ArtPrompt)** |   ACL'24    | [link](https://arxiv.org/pdf/2402.11753) |                              [link](https://github.com/uw-nsl/ArtPrompt)                               |
 | 2024.06 | **From Noise to Clarity: Unraveling the Adversarial Suffix of Large Language Model Attacks via Translation of Text Embeddings (ASETF)** |   arXiv    | [link](https://arxiv.org/pdf/2402.16006) |                              -                               |
 | 2024.06 | **CodeAttack: Revealing Safety Generalization Challenges of Large Language Models via Code Completion (CodeAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2403.07865) |                              -                               |
 | 2024.06 | **Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction (DRA)** |   USENIX Security'24    | [link](https://arxiv.org/pdf/2402.18104) |                              [link](https://github.com/LLM-DRA/DRA/)                               |
@@ -251,9 +254,13 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.04 | **JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models (JailbreakLens)** |   arXiv    | [link](https://arxiv.org/pdf/2404.08793) |                             -                               |
 | 2024.03 | **How (un) ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries (TECHHAZARDQA)** |   arXiv    | [link](https://arxiv.org/pdf/2402.15302) |                              [link](https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA)                               |
 | 2024.03 | **EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models (EasyJailbreak)** |   arXiv    | [link](https://arxiv.org/pdf/2403.12171) |                              [link](https://github.com/EasyJailbreak/EasyJailbreak)                               |
+| 2024.02 | **SPML: A DSL for Defending Language Models Against Prompt Attacks** |   arXiv    | [link](https://arxiv.org/pdf/2402.11755) |                             -                     |
 | 2024.02 | **Coercing LLMs to do and reveal (almost) anything** |   arXiv    | [link](https://arxiv.org/pdf/2402.14020) |                             -                     |
+| 2024.02 | **A STRONGREJECT for Empty Jailbreaks (StrongREJECT)** |   arXiv    | [link](https://arxiv.org/pdf/2402.10260) |                             [link](https://github.com/alexandrasouly/strongreject)                      |
+| 2024.02 | **ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages** |   ACL'24    | [link](https://arxiv.org/pdf/2402.10753) |                             [link](https://github.com/Junjie-Ye/ToolSword)                      |
 | 2024.02 | **HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal (HarmBench)** |   arXiv    | [link](https://arxiv.org/pdf/2402.04249) |                              [link](https://github.com/centerforaisafety/HarmBench)                               |
 | 2023.12 | **Goal-Oriented Prompt Attack and Safety Evaluation for LLMs** |   arXiv    | [link](https://arxiv.org/pdf/2309.11830)  |                             [link](https://github.com/liuchengyuan123/CPAD)                              |
+| 2023.12 | **The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness** |   arXiv    | [link](https://arxiv.org/pdf/2401.00287)  |                            -                              |
 | 2023.11 | **Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild** |   arXiv    | [link](https://arxiv.org/pdf/2311.06237)  |                             -                               |
 | 2023.11 | **Exploiting Large Language Models (LLMs) through Deception Techniques and Persuasion Principles** |   arXiv    | [link](https://arxiv.org/pdf/2311.14876)  |                             -                               |
 | 2023.10 | **Explore, establish, exploit: Red teaming language models from scratch** |   arXiv    | [link](https://arxiv.org/pdf/2306.09442)  |                             -                               |
@@ -270,6 +277,21 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2022.02 | **Red Teaming Language Models with Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2202.03286)  |                              -                               |
 
 
+
+
+
+
+
+
+
+
+
+## Contributors
+
+<a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="96" height="96"/></a> 
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
