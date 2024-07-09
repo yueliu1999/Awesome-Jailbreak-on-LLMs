@@ -126,14 +126,21 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.06 | **Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt** |   arXiv    | [link](https://arxiv.org/pdf/2406.04031) |                              [link](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)                               |
 | 2024.05 | **Voice Jailbreak Attacks Against GPT-4o** |   arXiv    | [link](https://arxiv.org/pdf/2405.19103) |                              [link](https://github.com/TrustAIRLab/VoiceJailbreakAttack)                               |
 | 2024.04 | **Image hijacks: Adversarial images can control generative models at runtime** |   arXiv    | [link](https://arxiv.org/pdf/2309.00236) |                              [link](https://github.com/euanong/image-hijacks)                               |
+| 2024.03 | **An image is worth 1000 lies: Adversarial transferability across prompts on vision-language models (CroPA)** |   ICLR'24    | [link](https://arxiv.org/pdf/2403.09766) |                              [link](https://github.com/Haochen-Luo/CroPA)                               |
+| 2024.03 | **Rethinking model ensemble in transfer-based adversarial attacks** |   ICLR'24    | [link](https://arxiv.org/pdf/2303.09105) |                              [link](https://github.com/huanranchen/AdversarialAttacks)                               |
+| 2024.02 | **VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models** |   NeurIPS'23    | [link](https://arxiv.org/abs/2310.04655) |               [link](https://github.com/ericyinyzy/VLAttack)                                         |
+| 2024.02 | **Jailbreaking Attack against Multimodal Large Language Model** |   arXiv    | [link](https://arxiv.org/pdf/2402.02309) |                             -                          |
 | 2024.01 | **Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts** |   arXiv    | [link](https://arxiv.org/pdf/2311.09127) |                             -                          |
 | 2024.03 | **Visual Adversarial Examples Jailbreak Aligned Large Language Models** |   AAAI'24    | [link](https://ojs.aaai.org/index.php/AAAI/article/view/30150/32038) |                              -                               |
+| 2023.12 | **OT-Attack: Enhancing Adversarial Transferability of Vision-Language Models via Optimal Transport Optimization (OT-Attack)** |   arXiv    | [link](https://arxiv.org/pdf/2312.04403) |                              -                               |
+| 2023.12 | **FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts (FigStep)** |   arXiv    | [link](https://arxiv.org/pdf/2311.05608) |                              [link](https://github.com/ThuCCSLab/FigStep)                               |
+| 2023.11 | **On Evaluating Adversarial Robustness of Large Vision-Language Models** |   NeurIPS'23    | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/a97b58c4f7551053b0512f92244b0810-Paper-Conference.pdf) |                              [link](https://github.com/yunqing-me/AttackVLM)                               |
 | 2023.10 | **Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models** |   ICLR'24    | [link](https://arxiv.org/pdf/2307.14539) |                              -                               |
-
-
-
-
-
+| 2023.10 | **How Robust is Google's Bard to Adversarial Image Attacks?** |   arXiv    | [link](https://arxiv.org/pdf/2309.11751) |                              [link](https://github.com/thu-ml/Attack-Bard)                               |
+| 2023.08 | **AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning (AdvCLIP)** |   ACM MM'23    | [link](https://arxiv.org/pdf/2308.07026) |                              [link](https://github.com/CGCL-codes/AdvCLIP)                               |
+| 2023.07 | **Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models (SGA)** |   ICCV'23    | [link](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Set-level_Guidance_Attack_Boosting_Adversarial_Transferability_of_Vision-Language_Pre-training_Models_ICCV_2023_paper.pdf) |                              [link](https://github.com/Zoky-2020/SGA)                               |
+| 2023.07 | **On the Adversarial Robustness of Multi-Modal Foundation Models** |   ICCV Workshop'23    | [link](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Schlarmann_On_the_Adversarial_Robustness_of_Multi-Modal_Foundation_Models_ICCVW_2023_paper.pdf) |                              -                               |
+| 2022.10 | **Towards Adversarial Attack on Vision-Language Pre-training Models** |   arXiv    | [link](https://arxiv.org/pdf/2206.09391) |                              [link](https://github.com/adversarial-for-goodness/Co-Attack)                               |
 
 
 
