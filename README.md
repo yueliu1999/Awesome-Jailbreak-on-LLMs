@@ -309,7 +309,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 <a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="96" height="96"/></a> 
 <a href="https://github.com/bhooi" target="_blank"><img src="https://avatars.githubusercontent.com/u/733939?v=4" alt="bhooi" width="96" height="96"/></a> 
 <a href="https://github.com/zqypku" target="_blank"><img src="https://avatars.githubusercontent.com/u/71053864?v=4" alt="zqypku" width="96" height="96"/></a> 
-
+<a href="https://github.com/jiaxiaojunQAQ" target="_blank"><img src="https://avatars.githubusercontent.com/u/23453472?v=4" alt="jiaxiaojunQAQ" width="96" height="96"/></a> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
