@@ -14,6 +14,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 #### White-box Attack
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.07 | **Revisiting Character-level Adversarial Attacks for Language Models** |   arXiv    | [link](https://arxiv.org/abs/2405.04346)  |                                             -                |
 | 2024.07 | **Badllama 3: removing safety finetuning from Llama 3 in minutes (Badllama 3)** |   arXiv    | [link](https://arxiv.org/pdf/2407.01376)  |                                             -                |
 | 2024.07 | **SOS! Soft Prompt Attack Against Open-Source Large Language Models** |   arXiv    | [link](https://arxiv.org/abs/2407.03160)  |                                             -                |
 | 2024.06 | **COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability (COLD-Attack)** |   ICML'24    | [link](https://arxiv.org/abs/2405.21018)  |                              [link](https://github.com/Yu-Fangxu/COLD-Attack)                               |
