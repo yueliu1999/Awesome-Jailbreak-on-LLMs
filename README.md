@@ -43,6 +43,8 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
 #### Black-box Attack
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
@@ -51,6 +53,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.07 | **Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection (Virtual Context)** |   arXiv    | [link](https://arxiv.org/pdf/2406.19845) |                              -                               |
 | 2024.07 | **SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack (SoP)** |   arXiv    | [link](https://arxiv.org/pdf/2407.01902) |                              [link](https://github.com/Yang-Yan-Yang-Yan/SoP)                               |
 | 2024.06 | **When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search (RLbreaker)** |   arXiv    | [link](https://arxiv.org/pdf/2406.08705) |                              -                               |
+| 2024.06 | **Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation** |   ICML'24    | [link](https://arxiv.org/pdf/2406.20053) |                              -                               |
 | 2024.06 | **ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs (ArtPrompt)** |   ACL'24    | [link](https://arxiv.org/pdf/2402.11753) |                              [link](https://github.com/uw-nsl/ArtPrompt)                               |
 | 2024.06 | **From Noise to Clarity: Unraveling the Adversarial Suffix of Large Language Model Attacks via Translation of Text Embeddings (ASETF)** |   arXiv    | [link](https://arxiv.org/pdf/2402.16006) |                              -                               |
 | 2024.06 | **CodeAttack: Revealing Safety Generalization Challenges of Large Language Models via Code Completion (CodeAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2403.07865) |                              -                               |
@@ -60,6 +63,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.06 | **GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts (GPTFuzz)** |   arXiv    | [link](https://arxiv.org/abs/2309.10253) |                              [link](https://github.com/sherdencooper/GPTFuzz)                               |
 | 2024.06 | **A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily (ReNeLLM)** |   NAACL'24    | [link](https://arxiv.org/abs/2311.08268) |                              [link](https://github.com/NJUNLP/ReNeLLM)                               |
 | 2024.06 | **QROA: A Black-Box Query-Response Optimization Attack on LLMs (QROA)** |   arXiv    | [link](https://arxiv.org/abs/2406.02044) |                              [link](https://github.com/qroa/qroa)                               |
+| 2024.06 | **Poisoned LangChain: Jailbreak LLMs by LangChain (PLC)** |   arXiv    | [link](https://arxiv.org/pdf/2406.18122) |                              [link](https://github.com/CAM-FSS/jailbreak-langchain)                               |
 | 2024.05 | **Multilingual Jailbreak Challenges in Large Language Models** |   ICLR'24    | [link](https://arxiv.org/pdf/2310.06474)  |                              [link](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)                               |
 | 2024.05 | **DeepInception: Hypnotize Large Language Model to Be Jailbreaker (DeepInception)** |   arXiv    | [link](https://arxiv.org/pdf/2311.03191)  |                              [link](https://github.com/tmlr-group/DeepInception)                               |
 | 2024.05 | **GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation (IRIS)** |   ACL'24    | [link](https://arxiv.org/abs/2405.13077) |                              -                               |
@@ -82,6 +86,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.02 | **Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning (Pandora)** |   arXiv    | [link](https://arxiv.org/pdf/2402.08416) |                              -                               |
 | 2024.02 | **Leveraging the Context through Multi-Round Interactions for Jailbreaking Attacks (Contextual Interaction Attack)** |   arXiv    | [link](https://arxiv.org/pdf/2402.09177) |                              -                               |
 | 2024.02 | **Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts Against Open-source LLMs (SMJ)** |   arXiv    | [link](https://arxiv.org/pdf/2402.14872) |                              -                               |
+| 2024.02 | **Cognitive Overload: Jailbreaking Large Language Models with Overloaded Logical Thinking** |   NAACL'24    | [link](https://arxiv.org/pdf/2311.09827#page=10.84) |                              [link](https://github.com/luka-group/CognitiveOverload)                              |
 | 2024.01 | **Low-Resource Languages Jailbreak GPT-4** |   NeurIPS Workshop'24    | [link](https://arxiv.org/pdf/2310.02446) |                             -                               |
 | 2024.01 | **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs (PAP)** |   arXiv    | [link](https://arxiv.org/pdf/2401.06373) |                              [link](https://github.com/CHATS-lab/persuasive_jailbreaker)                               |
 | 2023.12 | **Tree of Attacks: Jailbreaking Black-Box LLMs Automatically (TAP)** |   arXiv    | [link](https://arxiv.org/abs/2312.02119) |                              [link](https://github.com/RICommunity/TAP)                               |
@@ -97,6 +102,13 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2023.09 | **Open Sesame! Universal Black Box Jailbreaking of Large Language Models (GA)** |   arXiv    | [link](https://arxiv.org/abs/2309.01446) |                              -                               |
 | 2023.05 | **Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection** |   arXiv    | [link](https://arxiv.org/pdf/2302.12173?trk=public_post_comment-text) |                               [link](https://github.com/greshake/llm-security)                               |
 | 2022.11 | **Ignore Previous Prompt: Attack Techniques For Language Models (PromptInject)** |   NeurIPS WorkShop'22    | [link](https://arxiv.org/pdf/2211.09527) |                              [link](https://github.com/agencyenterprise/PromptInject)                              |
+
+
+
+
+
+
+
 
 
 
@@ -164,7 +176,10 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.05 | **Detoxifying Large Language Models via Knowledge Editing (DINM)** |   ACL'24    | [link](https://arxiv.org/pdf/2403.14472) |                              [link](https://github.com/zjunlp/EasyEdit/blob/main/examples/SafeEdit.md)          |
 | 2023.11 | **MART: Improving LLM Safety with Multi-round Automatic Red-Teaming (MART)** |   ACL'24    | [link](https://arxiv.org/pdf/2311.07689) |                              -          |
 | 2023.11 | **Baseline defenses for adversarial attacks against aligned language models** |   arXiv    | [link](https://arxiv.org/pdf/2308.14132) |                              -                               |
+| 2023.10 | **Safe rlhf: Safe reinforcement learning from human feedback** |   arXiv    | [link](https://arxiv.org/pdf/2310.12773) |                              [link](https://github.com/PKU-Alignment/safe-rlhf)                                |
 | 2023.08 | **Red-Teaming Large Language Models using Chain of Utterances for Safety-Alignment (RED-INSTRUCT)** |   arXiv    | [link](https://arxiv.org/pdf/2308.09662) |                              [link](https://github.com/declare-lab/red-instruct)                                |
+| 2022.04 | **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback** |   Anthropic    | [link](https://arxiv.org/pdf/2204.05862?spm=a2c6h.13046898.publish-article.36.6cd56ffaIPu4NQ&file=2204.05862) |                              -                                |
+
 
 
 
@@ -241,10 +256,23 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.07 | **WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs (WildGuard)** |   arXiv    | [link](https://arxiv.org/pdf/2406.18495)  |                       [link](https://github.com/allenai/wildguard)                       |
 | 2024.07 | **Jailbreak Attacks and Defenses Against Large Language Models: A Survey** |   arXiv    | [link](https://arxiv.org/abs/2407.04295)  |                     -                         |
+| 2024.06 | **WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models (WildTeaming)** |   arXiv    | [link](https://arxiv.org/pdf/2406.18510) |                              [link](https://github.com/allenai/wildteaming)                               |
 | 2024.06 | **ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs (VITC)** |   ACL'24    | [link](https://arxiv.org/pdf/2402.11753) |                              [link](https://github.com/uw-nsl/ArtPrompt)                               |
 | 2024.06 | **Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs** |   arXiv    | [link](https://arxiv.org/pdf/2406.093242) |                             [link](https://github.com/usail-hkust/Bag_of_Tricks_for_LLM_Jailbreaking)                              |
 | 2024.06 | **JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models (JailbreakZoo)** |   arXiv    | [link](https://arxiv.org/pdf/2407.01599) |                             [link](https://github.com/Allen-piexl/JailbreakZoo)                              |
