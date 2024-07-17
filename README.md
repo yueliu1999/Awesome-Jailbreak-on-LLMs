@@ -14,7 +14,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 #### White-box Attack
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.07 | **Revisiting Character-level Adversarial Attacks for Language Models** |   arXiv    | [link](https://arxiv.org/abs/2405.04346)  |                                             [link](https://github.com/LIONS-EPFL/Charmer)                |
+| 2024.07 | **Revisiting Character-level Adversarial Attacks for Language Models** |   ICML'24    | [link](https://arxiv.org/abs/2405.04346)  |                                             [link](https://github.com/LIONS-EPFL/Charmer)                |
 | 2024.07 | **Badllama 3: removing safety finetuning from Llama 3 in minutes (Badllama 3)** |   arXiv    | [link](https://arxiv.org/pdf/2407.01376)  |                                             -                |
 | 2024.07 | **SOS! Soft Prompt Attack Against Open-Source Large Language Models** |   arXiv    | [link](https://arxiv.org/abs/2407.03160)  |                                             -                |
 | 2024.06 | **COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability (COLD-Attack)** |   ICML'24    | [link](https://arxiv.org/abs/2405.21018)  |                              [link](https://github.com/Yu-Fangxu/COLD-Attack)                               |
@@ -36,32 +36,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-
-
-
-
-
-
-Cognitive overload: Jailbreaking large language models with overloaded logical thinking
-
-
-
-
-
-
-
-Safe rlhf: Safe reinforcement learning from human feedback
-
-
-
-
-Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation
-
-Poisoned LangChain: Jailbreak LLMs by LangChain 
-
-WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs
-
-WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models
 
 
 
@@ -330,6 +304,7 @@ WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Langu
 <a href="https://github.com/bhooi" target="_blank"><img src="https://avatars.githubusercontent.com/u/733939?v=4" alt="bhooi" width="96" height="96"/></a> 
 <a href="https://github.com/zqypku" target="_blank"><img src="https://avatars.githubusercontent.com/u/71053864?v=4" alt="zqypku" width="96" height="96"/></a> 
 <a href="https://github.com/jiaxiaojunQAQ" target="_blank"><img src="https://avatars.githubusercontent.com/u/23453472?v=4" alt="jiaxiaojunQAQ" width="96" height="96"/></a> 
+<a href="https://github.com/Huang-yihao" target="_blank"><img src="https://avatars.githubusercontent.com/u/16575311?v=4" alt="Huang-yihao" width="96" height="96"/></a> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
