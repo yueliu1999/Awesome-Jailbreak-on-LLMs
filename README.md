@@ -39,6 +39,27 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+Cognitive overload: Jailbreaking large language models with overloaded logical thinking
+
+
+
+
+
+
+
+Safe rlhf: Safe reinforcement learning from human feedback
+
+
+
+
+Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation
+
+Poisoned LangChain: Jailbreak LLMs by LangChain 
+
+WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs
+
+WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models
+
 
 
 
