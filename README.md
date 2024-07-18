@@ -127,7 +127,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.07 | ** Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything** |   arXiv    | [link](https://arxiv.org/pdf/2407.02534) |                              -                              |
+| 2024.07 | **Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything** |   arXiv    | [link](https://arxiv.org/pdf/2407.02534) |                              -                              |
 | 2024.06 | **Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt** |   arXiv    | [link](https://arxiv.org/pdf/2406.04031) |                              [link](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)                               |
 | 2024.05 | **Voice Jailbreak Attacks Against GPT-4o** |   arXiv    | [link](https://arxiv.org/pdf/2405.19103) |                              [link](https://github.com/TrustAIRLab/VoiceJailbreakAttack)                               |
 | 2024.05 | **Automatic Jailbreaking of the Text-to-Image Generative AI Systems** |     ICML'24 Workshop    | [link](https://arxiv.org/abs/2405.16567) | [link](https://github.com/Kim-Minseon/APGP) |
