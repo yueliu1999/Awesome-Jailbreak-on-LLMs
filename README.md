@@ -64,6 +64,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.06 | **A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily (ReNeLLM)** |   NAACL'24    | [link](https://arxiv.org/abs/2311.08268) |                              [link](https://github.com/NJUNLP/ReNeLLM)                               |
 | 2024.06 | **QROA: A Black-Box Query-Response Optimization Attack on LLMs (QROA)** |   arXiv    | [link](https://arxiv.org/abs/2406.02044) |                              [link](https://github.com/qroa/qroa)                               |
 | 2024.06 | **Poisoned LangChain: Jailbreak LLMs by LangChain (PLC)** |   arXiv    | [link](https://arxiv.org/pdf/2406.18122) |                              [link](https://github.com/CAM-FSS/jailbreak-langchain)                               |
+| 2024.05 | **Automatic Jailbreaking of the Text-to-Image Generative AI Systems** |     ICML'24 Workshop    | [link](https://arxiv.org/abs/2405.16567) | [link](https://github.com/Kim-Minseon/APGP) |
 | 2024.05 | **Multilingual Jailbreak Challenges in Large Language Models** |   ICLR'24    | [link](https://arxiv.org/pdf/2310.06474)  |                              [link](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)                               |
 | 2024.05 | **DeepInception: Hypnotize Large Language Model to Be Jailbreaker (DeepInception)** |   arXiv    | [link](https://arxiv.org/pdf/2311.03191)  |                              [link](https://github.com/tmlr-group/DeepInception)                               |
 | 2024.05 | **GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation (IRIS)** |   ACL'24    | [link](https://arxiv.org/abs/2405.13077) |                              -                               |
@@ -174,6 +175,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.06 | **Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks (RPO)** |   arXiv    | [link](https://arxiv.org/pdf/2401.17263) |                              -          |
 | 2024.06 | **Fight Back Against Jailbreaking via Prompt Adversarial Tuning (PAT)** |   arXiv    | [link](https://arxiv.org/pdf/2402.06255) |                              [link](https://github.com/rain152/PAT)          |
 | 2024.05 | **Detoxifying Large Language Models via Knowledge Editing (DINM)** |   ACL'24    | [link](https://arxiv.org/pdf/2403.14472) |                              [link](https://github.com/zjunlp/EasyEdit/blob/main/examples/SafeEdit.md)          |
+| 2024.05 | **Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing** |   arXiv | [link](https://arxiv.org/abs/2405.18166) | [link](https://github.com/ledllm/ledllm) |
 | 2023.11 | **MART: Improving LLM Safety with Multi-round Automatic Red-Teaming (MART)** |   ACL'24    | [link](https://arxiv.org/pdf/2311.07689) |                              -          |
 | 2023.11 | **Baseline defenses for adversarial attacks against aligned language models** |   arXiv    | [link](https://arxiv.org/pdf/2308.14132) |                              -                               |
 | 2023.10 | **Safe rlhf: Safe reinforcement learning from human feedback** |   arXiv    | [link](https://arxiv.org/pdf/2310.12773) |                              [link](https://github.com/PKU-Alignment/safe-rlhf)                                |
@@ -270,6 +272,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.07 | **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks** |    arXiv   | [link](https://arxiv.org/abs/2404.03027) | [link](https://github.com/EddyLuo1232/JailBreakV_28K) |
 | 2024.07 | **WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs (WildGuard)** |   arXiv    | [link](https://arxiv.org/pdf/2406.18495)  |                       [link](https://github.com/allenai/wildguard)                       |
 | 2024.07 | **Jailbreak Attacks and Defenses Against Large Language Models: A Survey** |   arXiv    | [link](https://arxiv.org/abs/2407.04295)  |                     -                         |
 | 2024.06 | **WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models (WildTeaming)** |   arXiv    | [link](https://arxiv.org/pdf/2406.18510) |                              [link](https://github.com/allenai/wildteaming)                               |
@@ -325,7 +328,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-
 ## Contributors
 
 <a href="https://github.com/yueliu1999" target="_blank"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" alt="yueliu1999" width="96" height="96"/></a> 
@@ -333,7 +335,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 <a href="https://github.com/zqypku" target="_blank"><img src="https://avatars.githubusercontent.com/u/71053864?v=4" alt="zqypku" width="96" height="96"/></a> 
 <a href="https://github.com/jiaxiaojunQAQ" target="_blank"><img src="https://avatars.githubusercontent.com/u/23453472?v=4" alt="jiaxiaojunQAQ" width="96" height="96"/></a> 
 <a href="https://github.com/Huang-yihao" target="_blank"><img src="https://avatars.githubusercontent.com/u/16575311?v=4" alt="Huang-yihao" width="96" height="96"/></a> 
-
+<a href="https://github.com/csyuhao" target="_blank"><img src="https://avatars.githubusercontent.com/u/24415219?v=4" alt="csyuhao" width="96" height="96"/></a> 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
