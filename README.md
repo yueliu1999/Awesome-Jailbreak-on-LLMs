@@ -24,11 +24,12 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.05 | **AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs (AmpleGCG)** |   arXiv    | [link](https://arxiv.org/pdf/2404.07921)  |                              [link](https://github.com/OSU-NLP-Group/AmpleGCG)                               |
 | 2024.05 | **Boosting jailbreak attack with momentum (MAC)** |   ICLR Workshop'24    | [link](https://arxiv.org/pdf/2405.01229)  |                              [link](https://github.com/weizeming/momentum-attack-llm)                               |
 | 2024.04 | **AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs (AdvPrompter)** |   arXiv    | [link](https://arxiv.org/pdf/2404.16873)  |            [link](https://github.com/facebookresearch/advprompter)                                                 |
+| 2024.03 | **Universal Jailbreak Backdoors from Poisoned Human Feedback** |   ICLR'24    | [link](https://openreview.net/pdf?id=GxCGsxiAaK)  |            -                                                 |
 | 2024.02 | **Attacking large language models with projected gradient descent (PGD)** |   arXiv    | [link](https://arxiv.org/pdf/2402.09154)  |                              -                               |
 | 2024.02 | **Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering (JRE)** |   arXiv    | [link](https://arxiv.org/pdf/2401.06824)  |                              -                               |
 | 2024.02 | **Curiosity-driven red-teaming for large language models (CRT)** |   arXiv    | [link](https://arxiv.org/pdf/2402.19464)  |                              [link](https://github.com/Improbable-AI/curiosity_redteam)                               |
 | 2023.12 | **AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models (AutoDAN)** |   arXiv    | [link](https://arxiv.org/abs/2310.15140)  |                             [link](https://github.com/rotaryhammer/code-autodan)                              |
-| 2023.10 | **Catastrophic jailbreak of open-source llms via exploiting generation** |   arXiv    | [link](https://arxiv.org/pdf/2310.06987)  |                              [link](https://github.com/Princeton-SysML/Jailbreak_LLM)                               |
+| 2023.10 | **Catastrophic jailbreak of open-source llms via exploiting generation** |   ICLR'24    | [link](https://arxiv.org/pdf/2310.06987)  |                              [link](https://github.com/Princeton-SysML/Jailbreak_LLM)                               |
 | 2023.06 | **Automatically Auditing Large Language Models via Discrete Optimization (ARCA)** |   ICML'23    | [link](https://proceedings.mlr.press/v202/jones23a/jones23a.pdf)  |                              [link](https://github.com/ejones313/auditing-llms)                               |
 | 2023.07 | **Universal and Transferable Adversarial Attacks on Aligned Language Models (GCG)** |   arXiv    | [link](https://arxiv.org/pdf/2307.15043)  |                              [link](https://autodan-jailbreak.github.io/)                               |
 
@@ -113,16 +114,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-
-
-
-
-
-
-
-
-
-
 #### Multi-modal Attack
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
@@ -133,6 +124,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.05 | **Automatic Jailbreaking of the Text-to-Image Generative AI Systems** |     ICML'24 Workshop    | [link](https://arxiv.org/abs/2405.16567) | [link](https://github.com/Kim-Minseon/APGP) |
 | 2024.04 | **Image hijacks: Adversarial images can control generative models at runtime** |   arXiv    | [link](https://arxiv.org/pdf/2309.00236) |                              [link](https://github.com/euanong/image-hijacks)                               |
 | 2024.03 | **An image is worth 1000 lies: Adversarial transferability across prompts on vision-language models (CroPA)** |   ICLR'24    | [link](https://arxiv.org/pdf/2403.09766) |                              [link](https://github.com/Haochen-Luo/CroPA)                               |
+| 2024.03 | **Jailbreak in pieces: Compositional adversarial attacks on multi-modal language model** |   ICLR'24    | [link](https://openreview.net/pdf?id=plmBsXHxgR) |                              -                               |
 | 2024.03 | **Rethinking model ensemble in transfer-based adversarial attacks** |   ICLR'24    | [link](https://arxiv.org/pdf/2303.09105) |                              [link](https://github.com/huanranchen/AdversarialAttacks)                               |
 | 2024.02 | **VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models** |   NeurIPS'23    | [link](https://arxiv.org/abs/2310.04655) |               [link](https://github.com/ericyinyzy/VLAttack)                                         |
 | 2024.02 | **Jailbreaking Attack against Multimodal Large Language Model** |   arXiv    | [link](https://arxiv.org/pdf/2402.02309) |                             -                          |
@@ -147,14 +139,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2023.07 | **Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models (SGA)** |   ICCV'23    | [link](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Set-level_Guidance_Attack_Boosting_Adversarial_Transferability_of_Vision-Language_Pre-training_Models_ICCV_2023_paper.pdf) |                              [link](https://github.com/Zoky-2020/SGA)                               |
 | 2023.07 | **On the Adversarial Robustness of Multi-Modal Foundation Models** |   ICCV Workshop'23    | [link](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Schlarmann_On_the_Adversarial_Robustness_of_Multi-Modal_Foundation_Models_ICCVW_2023_paper.pdf) |                              -                               |
 | 2022.10 | **Towards Adversarial Attack on Vision-Language Pre-training Models** |   arXiv    | [link](https://arxiv.org/pdf/2206.09391) |                              [link](https://github.com/adversarial-for-goodness/Co-Attack)                               |
-
-
-
-
-
-
-
-
 
 
 
@@ -256,19 +240,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -318,9 +289,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2023.02 | **Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks** |   arXiv    | [link](https://arxiv.org/pdf/2302.05733)  |                              -                               |
 | 2022.11 | **Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned** |   arXiv    | [link](https://arxiv.org/pdf/2209.07858)  |                              -                               |
 | 2022.02 | **Red Teaming Language Models with Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2202.03286)  |                              -                               |
-
-
-
 
 
 
