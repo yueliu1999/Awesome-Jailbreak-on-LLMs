@@ -44,8 +44,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-
-
 #### Black-box Attack
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
@@ -54,6 +52,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.07 | **Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection (Virtual Context)** |   arXiv    | [link](https://arxiv.org/pdf/2406.19845) |                              -                               |
 | 2024.07 | **SoP: Unlock the Power of Social Facilitation for Automatic Jailbreak Attack (SoP)** |   arXiv    | [link](https://arxiv.org/pdf/2407.01902) |                              [link](https://github.com/Yang-Yan-Yang-Yan/SoP)                               |
 | 2024.06 | **When LLM Meets DRL: Advancing Jailbreaking Efficiency via DRL-guided Search (RLbreaker)** |   arXiv    | [link](https://arxiv.org/pdf/2406.08705) |                              -                               |
+| 2024.06 | **Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast (Agent Smith)** |   ICML'24    | [link](https://arxiv.org/pdf/2402.08567) |                              [link](https://github.com/sail-sg/Agent-Smith)                               |
 | 2024.06 | **Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation** |   ICML'24    | [link](https://arxiv.org/pdf/2406.20053) |                              -                               |
 | 2024.06 | **ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs (ArtPrompt)** |   ACL'24    | [link](https://arxiv.org/pdf/2402.11753) |                              [link](https://github.com/uw-nsl/ArtPrompt)                               |
 | 2024.06 | **From Noise to Clarity: Unraveling the Adversarial Suffix of Large Language Model Attacks via Translation of Text Embeddings (ASETF)** |   arXiv    | [link](https://arxiv.org/pdf/2402.16006) |                              -                               |
@@ -103,10 +102,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2023.09 | **Open Sesame! Universal Black Box Jailbreaking of Large Language Models (GA)** |   arXiv    | [link](https://arxiv.org/abs/2309.01446) |                              -                               |
 | 2023.05 | **Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection** |   arXiv    | [link](https://arxiv.org/pdf/2302.12173?trk=public_post_comment-text) |                               [link](https://github.com/greshake/llm-security)                               |
 | 2022.11 | **Ignore Previous Prompt: Attack Techniques For Language Models (PromptInject)** |   NeurIPS WorkShop'22    | [link](https://arxiv.org/pdf/2211.09527) |                              [link](https://github.com/agencyenterprise/PromptInject)                              |
-
-
-
-
 
 
 
@@ -182,19 +177,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Strategy-based Defense
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
@@ -204,6 +186,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.06 | **A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily (ReNeLLM)** |   NAACL'24    | [link](https://arxiv.org/abs/2311.08268) |                              [link](https://github.com/NJUNLP/ReNeLLM)                               |
 | 2024.06 | **SMOOTHLLM: Defending Large Language Models Against Jailbreaking Attacks** |   arXiv    | [link](https://arxiv.org/pdf/2310.03684) |                              [link](https://github.com/arobey1/smooth-llm)                               |
 | 2024.05 | **Enhancing Large Language Models Against Inductive Instructions with Dual-critique Prompting (Dual-critique)** |   arXiv    | [link](https://arxiv.org/pdf/2305.13733) |                             [link](https://github.com/DevoAllen/INDust)                               |
+| 2024.05 | **PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition (PARDEN)** |   arXiv    | [link](https://arxiv.org/pdf/2405.07932) |                             [link](https://github.com/Ed-Zh/PARDEN)                               |
 | 2024.05 | **LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked** |   ICLR Tiny Paper'24    | [link](https://arxiv.org/pdf/2308.07308) |                             [link](https://github.com/poloclub/llm-self-defense)                               |
 | 2024.05 | **GradSafe: Detecting Unsafe Prompts for LLMs via Safety-Critical Gradient Analysis (GradSafe)** |   ACL'24    | [link](\https://arxiv.org/pdf/2402.13494) |                             [link](https://github.com/xyq7/GradSafe)                               |
 | 2024.05 | **Multilingual Jailbreak Challenges in Large Language Models** |   ICLR'24    | [link](https://arxiv.org/pdf/2310.06474)  |                              [link](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)                               |
@@ -273,6 +256,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2023.12 | **The Art of Defending: A Systematic Evaluation and Analysis of LLM Defense Strategies on Safety and Over-Defensiveness** |   arXiv    | [link](https://arxiv.org/pdf/2401.00287)  |                            -                              |
 | 2023.12 | **A Comprehensive Survey of Attack Techniques, Implementation, and Mitigation Strategies in Large Language Models** |   UbiSec'23    | [link](https://arxiv.org/pdf/2312.10982)  |                            -                              |
 | 2023.11 | **Summon a Demon and Bind it: A Grounded Theory of LLM Red Teaming in the Wild** |   arXiv    | [link](https://arxiv.org/pdf/2311.06237)  |                             -                               |
+| 2023.11 | **How many unicorns are in this image? a safety evaluation benchmark for vision llms** |   arXiv    | [link](https://arxiv.org/pdf/2311.16101)  |                             [link](https://github.com/UCSC-VLAA/vllm-safety-benchmark)                               |
 | 2023.11 | **Exploiting Large Language Models (LLMs) through Deception Techniques and Persuasion Principles** |   arXiv    | [link](https://arxiv.org/pdf/2311.14876)  |                             -                               |
 | 2023.10 | **Explore, establish, exploit: Red teaming language models from scratch** |   arXiv    | [link](https://arxiv.org/pdf/2306.09442)  |                             -                               |
 | 2023.10 | **Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks** |   arXiv    | [link](https://arxiv.org/pdf/2310.10844)  |                             -                               |
