@@ -37,13 +37,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-
-
-
-
-
-
-
 <!-- | 2024.07 | **AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases** |   arXiv    | [link](https://arxiv.org/pdf/2407.12784) |                              [link](https://github.com/BillChan226/AgentPoison)                               | -->
 
 
@@ -76,6 +69,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.05 | **Jailbreaking Large Language Models Against Moderation Guardrails via Cipher Characters (JAM)** |   arXiv    | [link](https://arxiv.org/pdf/2405.20413) |                              -                               |
 | 2024.05 | **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (ICA)** |   arXiv    | [link](https://arxiv.org/pdf/2310.06387) |                              -                               |
 | 2024.04 | **Many-shot jailbreaking (MSJ)** |   Anthropic    | [link](https://www-cdn.anthropic.com/af5633c94ed2beb282f6a53c595eb437e8e7b630/Many_Shot_Jailbreaking__2024_04_02_0936.pdf) |                              -                              |
+| 2024.04 | **PANDORA: Detailed LLM jailbreaking via collaborated phishing agents with decomposed reasoning (PANDORA)** |   ICLR Workshop'24    | [link](https://openreview.net/pdf?id=9o06ugFxIj) |                              -                              |
 | 2024.04 | **Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack (Crescendo)** |   Anthropic    | [link](https://arxiv.org/pdf/2404.01833) |                              -                              |
 | 2024.04 | **Fuzzllm: A novel and universal fuzzing framework for proactively discovering jailbreak vulnerabilities in large language models (FuzzLLM)** |   ICASSP'24    | [link](https://arxiv.org/pdf/2309.05274) |                              [link](https://github.com/RainJamesY/FuzzLLM)                              |
 | 2024.04 | **Sandwich attack: Multi-language mixture adaptive attack on llms (Sandwich attack)** |   arXiv    | [link](https://arxiv.org/pdf/2404.07242) |                              -                              |
