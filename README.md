@@ -126,7 +126,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2023.12 | **OT-Attack: Enhancing Adversarial Transferability of Vision-Language Models via Optimal Transport Optimization (OT-Attack)** |   arXiv    | [link](https://arxiv.org/pdf/2312.04403) |                              -                               |
 | 2023.12 | **FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts (FigStep)** |   arXiv    | [link](https://arxiv.org/pdf/2311.05608) |                              [link](https://github.com/ThuCCSLab/FigStep)                               |
 | 2023.11 | **On Evaluating Adversarial Robustness of Large Vision-Language Models** |   NeurIPS'23    | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/a97b58c4f7551053b0512f92244b0810-Paper-Conference.pdf) |                              [link](https://github.com/yunqing-me/AttackVLM)                               |
-| 2023.10 | **Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models** |   ICLR'24    | [link](https://arxiv.org/pdf/2307.14539) |                              -                               |
 | 2023.10 | **How Robust is Google's Bard to Adversarial Image Attacks?** |   arXiv    | [link](https://arxiv.org/pdf/2309.11751) |                              [link](https://github.com/thu-ml/Attack-Bard)                               |
 | 2023.08 | **AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning (AdvCLIP)** |   ACM MM'23    | [link](https://arxiv.org/pdf/2308.07026) |                              [link](https://github.com/CGCL-codes/AdvCLIP)                               |
 | 2023.07 | **Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models (SGA)** |   ICCV'23    | [link](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_Set-level_Guidance_Attack_Boosting_Adversarial_Transferability_of_Vision-Language_Pre-training_Models_ICCV_2023_paper.pdf) |                              [link](https://github.com/Zoky-2020/SGA)                               |
@@ -175,6 +174,10 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
+
+
 #### Strategy-based Defense
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
@@ -193,6 +196,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.05 | **Bergeron: Combating adversarial attacks through a conscience-based alignment framework (Bergeron)** |   arXiv    | [link](https://arxiv.org/pdf/2312.00029) |                             [link](https://github.com/matthew-pisano/Bergeron)                               |
 | 2024.05 | **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (ICD)** |   arXiv    | [link](https://arxiv.org/pdf/2310.06387)  |                              -                               |
 | 2024.04 | **Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning** |   arXiv    | [link](https://arxiv.org/pdf/2401.10862)  |                              [link](https://github.com/CrystalEye42/eval-safety)                                |
+| 2024.03 | **AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting (AdaShield)** |   ECCV'24    | [link](https://arxiv.org/pdf/2403.09513) |                              [link](https://github.com/SaFoLab-WISC/AdaShield)                              |
 | 2024.02 | **Certifying LLM Safety against Adversarial Prompting** |   arXiv    | [link](https://arxiv.org/pdf/2309.02705) |                              [link](https://github.com/aounon/certified-llm-safety)                              |
 | 2024.02 | **Break the Breakout: Reinventing LM Defense Against Jailbreak Attacks with Self-Refinement** |   arXiv    | [link](https://arxiv.org/pdf/2402.15180) |                              -                              |
 | 2024.02 | **Defending large language models against jailbreak attacks via semantic smoothing (SEMANTICSMOOTH)** |   arXiv    | [link](https://arxiv.org/pdf/2402.16192) |                              [link](https://github.com/UCSB-NLP-Chang/SemanticSmooth)                             |
