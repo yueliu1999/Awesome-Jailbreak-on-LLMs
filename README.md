@@ -45,6 +45,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.08 | **EnJa: Ensemble Jailbreak on Large Language Models (EnJa)** |   arXiv    | [link](https://arxiv.org/pdf/2408.03603) |                             -                                |
 | 2024.07 | **Single Character Perturbations Break LLM Alignment** |   arXiv    | [link](https://arxiv.org/pdf/2407.03232#page=3.00) |                              [link](https://github.com/hannah-aught/space_attack)                                |
 | 2024.07 | **A False Sense of Safety: Unsafe Information Leakage in 'Safe' AI Responses** |   arXiv    | [link](https://arxiv.org/abs/2407.02551) |                              -                               |
 | 2024.07 | **Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection (Virtual Context)** |   arXiv    | [link](https://arxiv.org/pdf/2406.19845) |                              -                               |
@@ -112,6 +113,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.08 | **Jailbreaking Text-to-Image Models with LLM-Based Agents (Atlas)** |   arXiv    | [link](https://arxiv.org/pdf/2408.00523) |                              -                              |
 | 2024.07 | **Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything** |   arXiv    | [link](https://arxiv.org/pdf/2407.02534) |                              -                              |
 | 2024.06 | **Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt** |   arXiv    | [link](https://arxiv.org/pdf/2406.04031) |                              [link](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)                               |
 | 2024.05 | **Voice Jailbreak Attacks Against GPT-4o** |   arXiv    | [link](https://arxiv.org/pdf/2405.19103) |                              [link](https://github.com/TrustAIRLab/VoiceJailbreakAttack)                               |
@@ -282,6 +284,15 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2023.02 | **Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks** |   arXiv    | [link](https://arxiv.org/pdf/2302.05733)  |                              -                               |
 | 2022.11 | **Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned** |   arXiv    | [link](https://arxiv.org/pdf/2209.07858)  |                              -                               |
 | 2022.02 | **Red Teaming Language Models with Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2202.03286)  |                              -                               |
+
+### Application
+
+| Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.08 | **A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares (APwT)** |   arXiv'24    | [link](https://arxiv.org/pdf/2408.05061) |                              -  |
+
+
+
 
 
 
