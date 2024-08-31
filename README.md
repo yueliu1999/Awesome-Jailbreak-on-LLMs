@@ -14,6 +14,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 #### White-box Attack
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.08 | **Jailbreak Open-Sourced Large Language Models via Enforced Decoding (EnDec)** |   ACL'24    | [link](https://aclanthology.org/2024.acl-long.299.pdf#page=4.96) |                             -                                |
 | 2024.07 | **Revisiting Character-level Adversarial Attacks for Language Models** |   ICML'24    | [link](https://arxiv.org/abs/2405.04346)  |                                             [link](https://github.com/LIONS-EPFL/Charmer)                |
 | 2024.07 | **Badllama 3: removing safety finetuning from Llama 3 in minutes (Badllama 3)** |   arXiv    | [link](https://arxiv.org/pdf/2407.01376)  |                                             -                |
 | 2024.07 | **SOS! Soft Prompt Attack Against Open-Source Large Language Models** |   arXiv    | [link](https://arxiv.org/abs/2407.03160)  |                                             -                |
@@ -38,7 +39,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-<!-- | 2024.07 | **AGENTPOISON: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases** |   arXiv    | [link](https://arxiv.org/pdf/2407.12784) |                              [link](https://github.com/BillChan226/AgentPoison)                               | -->
 
 
 #### Black-box Attack
@@ -109,12 +109,15 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
 #### Multi-modal Attack
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.08 | **Jailbreaking Text-to-Image Models with LLM-Based Agents (Atlas)** |   arXiv    | [link](https://arxiv.org/pdf/2408.00523) |                              -                              |
 | 2024.07 | **Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything** |   arXiv    | [link](https://arxiv.org/pdf/2407.02534) |                              -                              |
+| 2024.06 | **Defending LLMs against Jailbreaking Attacks via Backtranslation (Backtranslation)** |   ACL Findings'24    | [link](https://arxiv.org/pdf/2402.16459) |                              [link](https://github.com/YihanWang617/LLM-Jailbreaking-Defense-Backtranslation)                               |
 | 2024.06 | **Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt** |   arXiv    | [link](https://arxiv.org/pdf/2406.04031) |                              [link](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt)                               |
 | 2024.05 | **Voice Jailbreak Attacks Against GPT-4o** |   arXiv    | [link](https://arxiv.org/pdf/2405.19103) |                              [link](https://github.com/TrustAIRLab/VoiceJailbreakAttack)                               |
 | 2024.05 | **Automatic Jailbreaking of the Text-to-Image Generative AI Systems** |     ICML'24 Workshop    | [link](https://arxiv.org/abs/2405.16567) | [link](https://github.com/Kim-Minseon/APGP) |
@@ -140,11 +143,16 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
+
+
 ### Jailbreak Defense
 
 #### Learning-based Defense
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.08 | **BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger (BaThe)** |   arXiv    | [link](https://arxiv.org/pdf/2408.09093)  |                               -                              |
 | 2024.07 | **DART: Deep Adversarial Automated Red Teaming for LLM Safety** |   arXiv    | [link](https://arxiv.org/abs/2407.03876)  |                               -                              |
 | 2024.07 | **Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks** |   arXiv    | [link](https://arxiv.org/abs/2407.02855) |                              [link](https://github.com/thu-coai/SafeUnlearning)                               |
 | 2024.06 | **Jatmo: Prompt Injection Defense by Task-Specific Finetuning (Jatmo)** |   arXiv    | [link](https://arxiv.org/pdf/2312.17673) |                              [link](https://github.com/wagner-group/prompt-injection-defense)                               |
@@ -179,12 +187,11 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-
-
 #### Strategy-based Defense
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.08 | **Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks (PG)** |   arXiv'24    | [link](https://arxiv.org/pdf/2408.08924) |                              [link](https://github.com/weiyezhimeng/Prefix-Guidance)                               |
 | 2024.08 | **Self-Evaluation as a Defense Against Adversarial Attacks on LLMs (Self-Evaluation)** |   arXiv'24    | [link](https://arxiv.org/pdf/2407.03234#page=2.47) |                              [link](https://github.com/Linlt-leon/self-eval)                               |
 | 2024.06 | **SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding (SafeDecoding)** |   ACL'24    | [link](https://arxiv.org/pdf/2402.08983) |                              [link](https://github.com/uw-nsl/SafeDecoding)                               |
 | 2024.06 | **Defending Against Alignment-Breaking Attacks via Robustly Aligned LLM** |   arXiv    | [link](https://arxiv.org/pdf/2309.14348) |                              -                               |
@@ -233,6 +240,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.08 | **h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment (h4rm3l)** |    arXiv   | [link](https://arxiv.org/pdf/2408.04811) | - |
 | 2024.08 | **MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models (MMJ-Bench)** |    arXiv   | [link](https://arxiv.org/pdf/2408.08464) | [link](https://github.com/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench) |
 | 2024.07 | **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks** |    arXiv   | [link](https://arxiv.org/abs/2404.03027) | [link](https://github.com/EddyLuo1232/JailBreakV_28K) |
 | 2024.07 | **WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs (WildGuard)** |   arXiv    | [link](https://arxiv.org/pdf/2406.18495)  |                       [link](https://github.com/allenai/wildguard)                       |
