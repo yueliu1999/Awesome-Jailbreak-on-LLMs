@@ -241,6 +241,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -269,6 +270,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.05 | **Detoxifying Large Language Models via Knowledge Editing (SafeEdit)** |   ACL'24    | [link](https://arxiv.org/pdf/2403.14472) |                             [link](https://github.com/zjunlp/EasyEdit/blob/main/examples/SafeEdit.md)                               |
 | 2024.04 | **JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models (JailbreakLens)** |   arXiv    | [link](https://arxiv.org/pdf/2404.08793) |                             -                               |
 | 2024.03 | **How (un) ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries (TECHHAZARDQA)** |   arXiv    | [link](https://arxiv.org/pdf/2402.15302) |                              [link](https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA)                               |
+| 2024.03 | **Don’t Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models** |   USENIX Security    | [link](https://arxiv.org/pdf/2403.17336) |                             -                               |
 | 2024.03 | **EasyJailbreak: A Unified Framework for Jailbreaking Large Language Models (EasyJailbreak)** |   arXiv    | [link](https://arxiv.org/pdf/2403.12171) |                              [link](https://github.com/EasyJailbreak/EasyJailbreak)                               |
 | 2024.02 | **Comprehensive Assessment of Jailbreak Attacks Against LLMs** |   arXiv    | [link](https://arxiv.org/abs/2402.05668) |                             -                     |
 | 2024.02 | **SPML: A DSL for Defending Language Models Against Prompt Attacks** |   arXiv    | [link](https://arxiv.org/pdf/2402.11755) |                             -                     |
