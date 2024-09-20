@@ -218,8 +218,8 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.02 | **Defending large language models against jailbreak attacks via semantic smoothing (SEMANTICSMOOTH)** |   arXiv    | [link](https://arxiv.org/pdf/2402.16192) |                              [link](https://github.com/UCSB-NLP-Chang/SemanticSmooth)                             |
 | 2024.01 | **How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs (PAP)** |   arXiv    | [link](https://arxiv.org/pdf/2401.06373) |                              [link](https://github.com/CHATS-lab/persuasive_jailbreaker)                               |
 | 2023.12 | **Defending ChatGPT against jailbreak attack via self-reminders (Self-Reminder)** |   Nature Machine Intelligence    | [link](https://xyq7.github.io/papers/NMI-JailbreakDefense.pdf) |                              [link](https://github.com/yjw1029/Self-Reminder/)                               |
-| 2023.11 | **Detecting language model attacks with perplexity** |   arXiv    | [link](https://arxiv.org/pdf/2308.14132) |                              ICLR'24                               |
-| 2023.10 | **RAIN: Your Language Models Can Align Themselves without Finetuning (RAIN)** |   arXiv    | [link](https://arxiv.org/pdf/2309.07124) |                              [link](https://github.com/SafeAILab/RAIN)                               |
+| 2023.11 | **Detecting language model attacks with perplexity** |   arXiv    | [link](https://arxiv.org/pdf/2308.14132) |                             -                              |
+| 2023.10 | **RAIN: Your Language Models Can Align Themselves without Finetuning (RAIN)** |    ICLR'24    | [link](https://arxiv.org/pdf/2309.07124) |                              [link](https://github.com/SafeAILab/RAIN)                               |
 
 
 
