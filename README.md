@@ -160,6 +160,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.08 | **BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger (BaThe)** |   arXiv    | [link](https://arxiv.org/pdf/2408.09093)  |                               -                              |
 | 2024.07 | **DART: Deep Adversarial Automated Red Teaming for LLM Safety** |   arXiv    | [link](https://arxiv.org/abs/2407.03876)  |                               -                              |
+| 2024.07 | **Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge (Eraser)** |   arXiv    | [link](https://arxiv.org/pdf/2404.05880) |                              [link](https://github.com/ZeroNLP/Eraser)                               |
 | 2024.07 | **Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks** |   arXiv    | [link](https://arxiv.org/abs/2407.02855) |                              [link](https://github.com/thu-coai/SafeUnlearning)                               |
 | 2024.06 | **Jatmo: Prompt Injection Defense by Task-Specific Finetuning (Jatmo)** |   arXiv    | [link](https://arxiv.org/pdf/2312.17673) |                              [link](https://github.com/wagner-group/prompt-injection-defense)                               |
 | 2024.06 | **Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization (SafeDecoding)** |   ACL'24    | [link](https://arxiv.org/pdf/2311.09096) |                              [link](https://github.com/thu-coai/JailbreakDefense_GoalPriority)                               |
@@ -331,6 +332,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 <a href="https://github.com/xszheng2020" target="_blank"><img src="https://avatars.githubusercontent.com/u/101038474?v=4" alt="xszheng2020" width="96" height="96"/></a> 
 <a href="https://github.com/dapurv5" target="_blank"><img src="https://avatars.githubusercontent.com/u/654346?v=4" alt="dapurv5" width="96" height="96"/></a> 
 <a href="https://github.com/ZYQ-Zoey77" target="_blank"><img src="https://avatars.githubusercontent.com/u/72439991?v=4" alt="ZYQ-Zoey77" width="96" height="96"/></a> 
+<a href="https://github.com/mdoumbouya" target="_blank"><img src="https://avatars.githubusercontent.com/u/8138248?v=4" alt="mdoumbouya" width="96" height="96"/></a> 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
