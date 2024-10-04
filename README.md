@@ -47,7 +47,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping** |   arXiv    | [link](https://github.com/yueliu1999/FlipAttack/blob/main/FlipAttack.pdf)|        [link](https://github.com/yueliu1999/FlipAttack)      |
+| 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://github.com/yueliu1999/FlipAttack/blob/main/FlipAttack.pdf)|        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2024.09 | **Jailbreaking Large Language Models with Symbolic Mathematics** |   arXiv    | [link](https://arxiv.org/pdf/2409.11445v1)|        -       |
 | 2024.08 | **Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2408.14866)|        -       |
 | 2024.08 | **Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles** |   arXiv    | [link](https://arxiv.org/pdf/2408.11182) |                             -                                |
