@@ -81,7 +81,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.05 | **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (ICA)** |   arXiv    | [link](https://arxiv.org/pdf/2310.06387) |                              -                               |
 | 2024.04 | **Many-shot jailbreaking (MSJ)** |   Anthropic    | [link](https://www-cdn.anthropic.com/af5633c94ed2beb282f6a53c595eb437e8e7b630/Many_Shot_Jailbreaking__2024_04_02_0936.pdf) |                              -                              |
 | 2024.04 | **PANDORA: Detailed LLM jailbreaking via collaborated phishing agents with decomposed reasoning (PANDORA)** |   ICLR Workshop'24    | [link](https://openreview.net/pdf?id=9o06ugFxIj) |                              -                              |
-| 2024.04 | **Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack (Crescendo)** |   Anthropic    | [link](https://arxiv.org/pdf/2404.01833) |                              -                              |
 | 2024.04 | **Fuzzllm: A novel and universal fuzzing framework for proactively discovering jailbreak vulnerabilities in large language models (FuzzLLM)** |   ICASSP'24    | [link](https://arxiv.org/pdf/2309.05274) |                              [link](https://github.com/RainJamesY/FuzzLLM)                              |
 | 2024.04 | **Sandwich attack: Multi-language mixture adaptive attack on llms (Sandwich attack)** |   arXiv    | [link](https://arxiv.org/pdf/2404.07242) |                              -                              |
 | 2024.03 | **Tastle: Distract large language models for automatic jailbreak attack (TASTLE)** |   arXiv    | [link](https://arxiv.org/pdf/2403.08424) |                              -                               |
@@ -91,7 +90,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.02 | **PAL: Proxy-Guided Black-Box Attack on Large Language Models (PAL)** |   arXiv    | [link](https://arxiv.org/abs/2402.09674) |                              [link](https://github.com/chawins/pal)                               |
 | 2024.02 | **Jailbreaking Proprietary Large Language Models using Word Substitution Cipher** |   arXiv    | [link](https://arxiv.org/pdf/2402.10601) |                              -                              |
 | 2024.02 | **Query-Based Adversarial Prompt Generation** |   arXiv    | [link](https://arxiv.org/pdf/2402.12329) |                              -                              |
-| 2024.02 | **Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning (Pandora)** |   arXiv    | [link](https://arxiv.org/pdf/2402.08416) |                              -                               |
 | 2024.02 | **Leveraging the Context through Multi-Round Interactions for Jailbreaking Attacks (Contextual Interaction Attack)** |   arXiv    | [link](https://arxiv.org/pdf/2402.09177) |                              -                               |
 | 2024.02 | **Semantic Mirror Jailbreak: Genetic Algorithm Based Jailbreak Prompts Against Open-source LLMs (SMJ)** |   arXiv    | [link](https://arxiv.org/pdf/2402.14872) |                              -                               |
 | 2024.02 | **Cognitive Overload: Jailbreaking Large Language Models with Overloaded Logical Thinking** |   NAACL'24    | [link](https://arxiv.org/pdf/2311.09827#page=10.84) |                              [link](https://github.com/luka-group/CognitiveOverload)                              |
@@ -112,6 +110,34 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2022.11 | **Ignore Previous Prompt: Attack Techniques For Language Models (PromptInject)** |   NeurIPS WorkShop'22    | [link](https://arxiv.org/pdf/2211.09527) |                              [link](https://github.com/agencyenterprise/PromptInject)                              |
 
 
+
+
+
+#### Multi-turn Attack
+
+
+
+| Time    | Title                                                        |   Venue   |                  Paper                   |                             Code                             |
+| ------- | ------------------------------------------------------------ | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2024.09 | **LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet** |   arXiv   | [link](https://arxiv.org/pdf/2408.15221) |     [link](https://huggingface.co/datasets/ScaleAI/mhj)      |
+| 2024.08 | **Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks** |   arXiv   | [link](https://arxiv.org/pdf/2409.00137) | [link](https://huggingface.co/datasets/tom-gibbs/multi-turn_jailbreak_attack_datasets) |
+| 2024.05 | **CoA: Context-Aware based Chain of Attack for Multi-Turn Dialogue LLM (CoA)** |   arXiv   | [link](https://arxiv.org/pdf/2405.05610) |           [link](https://github.com/YancyKahn/CoA)           |
+| 2024.04 | **Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack (Crescendo)** | Anthropic | [link](https://arxiv.org/pdf/2404.01833) |                              -                               |
+
+
+
+
+
+
+
+#### Attack on RAG-based LLM
+
+
+
+| Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
+| ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2024.09 | **Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2409.08045) | [link](https://github.com/StavC/UnleashingWorms-ExtractingData) |
+| 2024.02 | **Pandora: Jailbreak GPTs by Retrieval Augmented Generation Poisoning (Pandora)** | arXiv | [link](https://arxiv.org/pdf/2402.08416) |                              -                               |
 
 
 
@@ -201,6 +227,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.09 | **HSF: Defending against Jailbreak Attacks with Hidden State Filtering** |  | [link](https://arxiv.org/html/2409.03788v1) | [link](https://anonymous.4open.science/r/Hidden-State-Filtering-8652/) |
 | 2024.08 | **EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models (EEG-Defender)** |   arXiv'24    | [link](https://arxiv.org/pdf/2408.11308) |                              -                               |
 | 2024.08 | **Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks (PG)** |   arXiv'24    | [link](https://arxiv.org/pdf/2408.08924) |                              [link](https://github.com/weiyezhimeng/Prefix-Guidance)                               |
 | 2024.08 | **Self-Evaluation as a Defense Against Adversarial Attacks on LLMs (Self-Evaluation)** |   arXiv'24    | [link](https://arxiv.org/pdf/2407.03234#page=2.47) |                              [link](https://github.com/Linlt-leon/self-eval)                               |
@@ -253,7 +280,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.08 | **Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks** |    arXiv   | [link](https://arxiv.org/pdf/2409.00137) | [link](https://huggingface.co/datasets/tom-gibbs/multi-turn_jailbreak_attack_datasets) |
+| 2024.09 | **Multimodal Pragmatic Jailbreak on Text-to-image Models** | arXiv | [link](https://arxiv.org/pdf/2409.19149) | [link](https://github.com/multimodalpragmatic/multimodalpragmatic/tree/main) |
 | 2024.08 | **MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models (MMJ-Bench)** |    arXiv   | [link](https://arxiv.org/pdf/2408.08464) | [link](https://github.com/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench) |
 | 2024.07 | **Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)** |    arXiv   | [link](https://arxiv.org/abs/2407.14937) | [link](https://github.com/dapurv5/awesome-llm-red-teaming) |
 | 2024.07 | **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks** |    arXiv   | [link](https://arxiv.org/abs/2404.03027) | [link](https://github.com/EddyLuo1232/JailBreakV_28K) |
