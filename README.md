@@ -282,6 +282,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **ADVERSARIAL SUFFIXES MAY BE FEATURES TOO!** | arXiv | [link](https://arxiv.org/pdf/2410.00451) | [link](https://github.com/suffix-maybe-feature/adver-suffix-maybe-features) |
 | 2024.09 | **Multimodal Pragmatic Jailbreak on Text-to-image Models** | arXiv | [link](https://arxiv.org/pdf/2409.19149) | [link](https://github.com/multimodalpragmatic/multimodalpragmatic/tree/main) |
 | 2024.08 | **MMJ-Bench: A Comprehensive Study on Jailbreak Attacks and Defenses for Vision Language Models (MMJ-Bench)** |    arXiv   | [link](https://arxiv.org/pdf/2408.08464) | [link](https://github.com/thunxxx/MLLM-Jailbreak-evaluation-MMJ-bench) |
 | 2024.07 | **Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)** |    arXiv   | [link](https://arxiv.org/abs/2407.14937) | [link](https://github.com/dapurv5/awesome-llm-red-teaming) |
