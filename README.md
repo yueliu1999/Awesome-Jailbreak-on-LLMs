@@ -48,6 +48,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://github.com/yueliu1999/FlipAttack/blob/main/FlipAttack.pdf)|        [link](https://github.com/yueliu1999/FlipAttack)      |
+| 2024.10 | **Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity** | arXiv | [link](https://arxiv.org/pdf/2409.18708) | [link](https://github.com/Serbernari/ToxASCII) |
 | 2024.09 | **Jailbreaking Large Language Models with Symbolic Mathematics** |   arXiv    | [link](https://arxiv.org/pdf/2409.11445v1)|        -       |
 | 2024.08 | **Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2408.14866)|        -       |
 | 2024.08 | **Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles** |   arXiv    | [link](https://arxiv.org/pdf/2408.11182) |                             -                                |
@@ -120,6 +121,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | Time    | Title                                                        |   Venue   |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
 | 2024.09 | **LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet** |   arXiv   | [link](https://arxiv.org/pdf/2408.15221) |     [link](https://huggingface.co/datasets/ScaleAI/mhj)      |
+| 2024.09 | **RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking** |   arXiv   | [link](https://arxiv.org/pdf/2409.17458) |       [link](https://github.com/kriti-hippo/red_queen)       |
 | 2024.08 | **Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks** |   arXiv   | [link](https://arxiv.org/pdf/2409.00137) | [link](https://huggingface.co/datasets/tom-gibbs/multi-turn_jailbreak_attack_datasets) |
 | 2024.05 | **CoA: Context-Aware based Chain of Attack for Multi-Turn Dialogue LLM (CoA)** |   arXiv   | [link](https://arxiv.org/pdf/2405.05610) |           [link](https://github.com/YancyKahn/CoA)           |
 | 2024.04 | **Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack (Crescendo)** | Anthropic | [link](https://arxiv.org/pdf/2404.01833) |                              -                               |
