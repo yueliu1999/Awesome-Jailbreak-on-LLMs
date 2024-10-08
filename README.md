@@ -189,6 +189,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 #### Learning-based Defense
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data** | arXiv | [link](https://arxiv.org/html/2410.00296v1) | - |
 | 2024.10 | **MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks** | arXiv | [link](https://arxiv.org/pdf/2409.17699) | - |
 | 2024.08 | **BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger (BaThe)** |   arXiv    | [link](https://arxiv.org/pdf/2408.09093)  |                               -                              |
 | 2024.07 | **DART: Deep Adversarial Automated Red Teaming for LLM Safety** |   arXiv    | [link](https://arxiv.org/abs/2407.03876)  |                               -                              |
@@ -229,9 +230,12 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 #### Strategy-based Defense
 
+
+
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.09 | **HSF: Defending against Jailbreak Attacks with Hidden State Filtering** |  | [link](https://arxiv.org/html/2409.03788v1) | [link](https://anonymous.4open.science/r/Hidden-State-Filtering-8652/) |
+| 2024.10 | **Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models** | arXiv | [link](https://arxiv.org/html/2410.02298v1) | - |
+| 2024.09 | **HSF: Defending against Jailbreak Attacks with Hidden State Filtering** | arXiv | [link](https://arxiv.org/html/2409.03788v1) | [link](https://anonymous.4open.science/r/Hidden-State-Filtering-8652/) |
 | 2024.08 | **EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models (EEG-Defender)** |   arXiv'24    | [link](https://arxiv.org/pdf/2408.11308) |                              -                               |
 | 2024.08 | **Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks (PG)** |   arXiv'24    | [link](https://arxiv.org/pdf/2408.08924) |                              [link](https://github.com/weiyezhimeng/Prefix-Guidance)                               |
 | 2024.08 | **Self-Evaluation as a Defense Against Adversarial Attacks on LLMs (Self-Evaluation)** |   arXiv'24    | [link](https://arxiv.org/pdf/2407.03234#page=2.47) |                              [link](https://github.com/Linlt-leon/self-eval)                               |
@@ -349,7 +353,12 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+## Other Related Awesome Repository
 
+- [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP)
+- [llm-sp](https://github.com/chawins/llm-sp)
+- [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)
+- [Awesome-LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
 
 
 
