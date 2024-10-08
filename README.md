@@ -47,7 +47,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://github.com/yueliu1999/FlipAttack/blob/main/FlipAttack.pdf)|        [link](https://github.com/yueliu1999/FlipAttack)      |
+| 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2024.10 | **PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach (PathSeeker)** | arXiv | [link](https://www.arxiv.org/pdf/2409.14177) | - |
 | 2024.10 | **Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity** | arXiv | [link](https://arxiv.org/pdf/2409.18708) | [link](https://github.com/Serbernari/ToxASCII) |
 | 2024.09 | **Jailbreaking Large Language Models with Symbolic Mathematics** |   arXiv    | [link](https://arxiv.org/pdf/2409.11445v1)|        -       |
