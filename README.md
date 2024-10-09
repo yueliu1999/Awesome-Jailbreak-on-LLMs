@@ -6,6 +6,22 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 ## Papers
 
+### Bookmarks
+
+- [Jailbreak Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#jailbreak-attack)
+  - [White-box Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#white-box-attack)
+  - [Black-box Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#black-box-attack)
+  - [Multi-turn Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#multi-turn-attack)
+  - [Attack on RAG-based LLM](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#attack-on-rag-based-llm)
+  - [Multi-modal Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#multi-modal-attack)
+- [Jailbreak Defense](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#jailbreak-defense)
+  - [Learning-based Defense](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#learning-based-defense)
+  - [Strategy-based Defense](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#strategy-based-defense)
+- [Evaluation & Analysis](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#evaluation--analysis)
+- [Application](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#application)
+
+
+
 
 ### Jailbreak Attack
 
