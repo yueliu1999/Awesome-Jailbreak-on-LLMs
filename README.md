@@ -4,9 +4,9 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-## Papers
 
-### Bookmarks
+
+## Bookmarks
 
 - [Jailbreak Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#jailbreak-attack)
   - [White-box Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#white-box-attack)
@@ -19,6 +19,10 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
   - [Strategy-based Defense](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#strategy-based-defense)
 - [Evaluation & Analysis](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#evaluation--analysis)
 - [Application](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#application)
+
+
+
+## Papers
 
 
 
@@ -395,6 +399,13 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 <a href="https://github.com/dapurv5" target="_blank"><img src="https://avatars.githubusercontent.com/u/654346?v=4" alt="dapurv5" width="96" height="96"/></a> 
 <a href="https://github.com/ZYQ-Zoey77" target="_blank"><img src="https://avatars.githubusercontent.com/u/72439991?v=4" alt="ZYQ-Zoey77" width="96" height="96"/></a> 
 <a href="https://github.com/mdoumbouya" target="_blank"><img src="https://avatars.githubusercontent.com/u/8138248?v=4" alt="mdoumbouya" width="96" height="96"/></a> 
+
+
+
+
+
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
