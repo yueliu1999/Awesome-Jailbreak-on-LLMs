@@ -1,6 +1,6 @@
 # Awesome-Jailbreak-on-LLMs
 
-Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding jailbreak, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yliu@u.nus.edu. If you find this repository useful to your research or work, it is really appreciated to star this repository. :sparkles:
+Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses. Any additional things regarding jailbreak, PRs, issues are welcome and we are glad to add you to the contributor list [here](#contributors). Any problems, please contact yliu@u.nus.edu. If you find this repository useful to your research or work, it is really appreciated to star this repository and cite our papers [here](#Reference). :sparkles:
 
 
 
@@ -8,17 +8,17 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 ## Bookmarks
 
-- [Jailbreak Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#jailbreak-attack)
-  - [White-box Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#white-box-attack)
-  - [Black-box Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#black-box-attack)
-  - [Multi-turn Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#multi-turn-attack)
-  - [Attack on RAG-based LLM](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#attack-on-rag-based-llm)
-  - [Multi-modal Attack](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#multi-modal-attack)
-- [Jailbreak Defense](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#jailbreak-defense)
-  - [Learning-based Defense](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#learning-based-defense)
-  - [Strategy-based Defense](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#strategy-based-defense)
-- [Evaluation & Analysis](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#evaluation--analysis)
-- [Application](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#application)
+- [Jailbreak Attack](#jailbreak-attack)
+  - [White-box Attack](#white-box-attack)
+  - [Black-box Attack](#black-box-attack)
+  - [Multi-turn Attack](#multi-turn-attack)
+  - [Attack on RAG-based LLM](#attack-on-rag-based-llm)
+  - [Multi-modal Attack](#multi-modal-attack)
+- [Jailbreak Defense](#jailbreak-defense)
+  - [Learning-based Defense](#learning-based-defense)
+  - [Strategy-based Defense](#strategy-based-defense)
+- [Evaluation & Analysis](#evaluation--analysis)
+- [Application](#application)
 
 
 
@@ -384,7 +384,16 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+## Reference
 
+```
+@article{liuyue_FlipAttack,
+  title={FlipAttack: Jailbreak LLMs via Flipping},
+  author={Liu, Yue and He, Xiaoxin and Xiong, Miao and Fu, Jinlan and Deng, Shumin and Hooi, Bryan},
+  journal={arXiv preprint arXiv:2410.02832},
+  year={2024}
+}
+```
 
 
 ## Contributors
