@@ -149,7 +149,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.09 | **RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking** |   arXiv   | [link](https://arxiv.org/pdf/2409.17458) |       [link](https://github.com/kriti-hippo/red_queen)       |
 | 2024.08 | **Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks** |   arXiv   | [link](https://arxiv.org/pdf/2409.00137) | [link](https://huggingface.co/datasets/tom-gibbs/multi-turn_jailbreak_attack_datasets) |
 | 2024.05 | **CoA: Context-Aware based Chain of Attack for Multi-Turn Dialogue LLM (CoA)** |   arXiv   | [link](https://arxiv.org/pdf/2405.05610) |           [link](https://github.com/YancyKahn/CoA)           |
-| 2024.04 | **Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack (Crescendo)** | Anthropic | [link](https://arxiv.org/pdf/2404.01833) |                              -                               |
+| 2024.04 | **Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack (Crescendo)** | Microsoft Azure | [link](https://arxiv.org/pdf/2404.01833) |                              -                               |
 
 
 
