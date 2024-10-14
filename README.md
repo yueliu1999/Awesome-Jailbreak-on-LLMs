@@ -70,6 +70,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
+| 2024.10 | **AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs (AutoDAN-Turbo)** |   arXiv    | [link](https://arxiv.org/pdf/2410.05295) |        [link](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)      |
 | 2024.10 | **PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach (PathSeeker)** | arXiv | [link](https://www.arxiv.org/pdf/2409.14177) | - |
 | 2024.10 | **Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity** | arXiv | [link](https://arxiv.org/pdf/2409.18708) | [link](https://github.com/Serbernari/ToxASCII) |
 | 2024.09 | **AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs** | arXiv | [link](https://arxiv.org/pdf/2409.07503) | [link](https://github.com/Yummy416/AdaPPA) |
