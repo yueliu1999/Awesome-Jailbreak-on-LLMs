@@ -9,8 +9,8 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ## Bookmarks
 
 - [Jailbreak Attack](#jailbreak-attack)
-  - [White-box Attack](#white-box-attack)
   - [Black-box Attack](#black-box-attack)
+  - [White-box Attack](#white-box-attack)
   - [Multi-turn Attack](#multi-turn-attack)
   - [Attack on RAG-based LLM](#attack-on-rag-based-llm)
   - [Multi-modal Attack](#multi-modal-attack)
@@ -28,36 +28,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 ### Jailbreak Attack
-
-
-
-
-#### White-box Attack
-| Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
-| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.08 | **Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation (JVD)** |   arXiv   | [link](https://arxiv.org/pdf/2408.10668) |                             -                                |
-| 2024.08 | **Jailbreak Open-Sourced Large Language Models via Enforced Decoding (EnDec)** |   ACL'24    | [link](https://aclanthology.org/2024.acl-long.299.pdf#page=4.96) |                             -                                |
-| 2024.07 | **Refusal in Language Models Is Mediated by a Single Direction** | arXiv | [Link](https://arxiv.org/pdf/2406.11717) | [Link](https://github.com/andyrdt/refusal_direction) |
-| 2024.07 | **Revisiting Character-level Adversarial Attacks for Language Models** |   ICML'24    | [link](https://arxiv.org/abs/2405.04346)  |                                             [link](https://github.com/LIONS-EPFL/Charmer)                |
-| 2024.07 | **Badllama 3: removing safety finetuning from Llama 3 in minutes (Badllama 3)** |   arXiv    | [link](https://arxiv.org/pdf/2407.01376)  |                                             -                |
-| 2024.07 | **SOS! Soft Prompt Attack Against Open-Source Large Language Models** |   arXiv    | [link](https://arxiv.org/abs/2407.03160)  |                                             -                |
-| 2024.06 | **Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses (I-FSJ)** |   NeurIPS'24   | [link](https://arxiv.org/abs/2406.01288)  |                              [link](https://github.com/sail-sg/I-FSJ)                               |
-| 2024.06 | **COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability (COLD-Attack)** |   ICML'24    | [link](https://arxiv.org/pdf/2402.08679)  |                              [link](https://github.com/Yu-Fangxu/COLD-Attack)                               |
-| 2024.06 | **Improved Techniques for Optimization-Based Jailbreaking on Large Language Models (I-GCG)** |   arXiv   | [link](https://arxiv.org/abs/2405.21018)  |                              [link](https://github.com/jiaxiaojunQAQ/I-GCG)                               |
-| 2024.05 | **Semantic-guided Prompt Organization for Universal Goal Hijacking against LLMs** |   arXiv    | [link](https://arxiv.org/abs/2405.14189)  ||
-| 2024.05 | **Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization** | NeurIPS'24 | [Link](https://arxiv.org/pdf/2405.09113) |-|
-| 2024.05 | **AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models (AutoDAN)** |   ICLR'24    | [link](https://arxiv.org/pdf/2310.04451)  |                              [link](https://github.com/SheltonLiu-N/AutoDAN)                               |
-| 2024.05 | **AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs (AmpleGCG)** |   arXiv    | [link](https://arxiv.org/pdf/2404.07921)  |                              [link](https://github.com/OSU-NLP-Group/AmpleGCG)                               |
-| 2024.05 | **Boosting jailbreak attack with momentum (MAC)** |   ICLR Workshop'24    | [link](https://arxiv.org/pdf/2405.01229)  |                              [link](https://github.com/weizeming/momentum-attack-llm)                               |
-| 2024.04 | **AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs (AdvPrompter)** |   arXiv    | [link](https://arxiv.org/pdf/2404.16873)  |            [link](https://github.com/facebookresearch/advprompter)                                                 |
-| 2024.03 | **Universal Jailbreak Backdoors from Poisoned Human Feedback** |   ICLR'24    | [link](https://openreview.net/pdf?id=GxCGsxiAaK)  |            -                                                 |
-| 2024.02 | **Attacking large language models with projected gradient descent (PGD)** |   arXiv    | [link](https://arxiv.org/pdf/2402.09154)  |                              -                               |
-| 2024.02 | **Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering (JRE)** |   arXiv    | [link](https://arxiv.org/pdf/2401.06824)  |                              -                               |
-| 2024.02 | **Curiosity-driven red-teaming for large language models (CRT)** |   arXiv    | [link](https://arxiv.org/pdf/2402.19464)  |                              [link](https://github.com/Improbable-AI/curiosity_redteam)                               |
-| 2023.12 | **AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models (AutoDAN)** |   arXiv    | [link](https://arxiv.org/abs/2310.15140)  |                             [link](https://github.com/rotaryhammer/code-autodan)                              |
-| 2023.10 | **Catastrophic jailbreak of open-source llms via exploiting generation** |   ICLR'24    | [link](https://arxiv.org/pdf/2310.06987)  |                              [link](https://github.com/Princeton-SysML/Jailbreak_LLM)                               |
-| 2023.06 | **Automatically Auditing Large Language Models via Discrete Optimization (ARCA)** |   ICML'23    | [link](https://proceedings.mlr.press/v202/jones23a/jones23a.pdf)  |                              [link](https://github.com/ejones313/auditing-llms)                               |
-| 2023.07 | **Universal and Transferable Adversarial Attacks on Aligned Language Models (GCG)** |   arXiv    | [link](https://arxiv.org/pdf/2307.15043)  |                              [link](https://github.com/llm-attacks/llm-attacks)                               |
 
 
 
@@ -135,6 +105,38 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2023.09 | **Open Sesame! Universal Black Box Jailbreaking of Large Language Models (GA)** |   arXiv    | [link](https://arxiv.org/abs/2309.01446) |                              -                               |
 | 2023.05 | **Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection** |   arXiv    | [link](https://arxiv.org/pdf/2302.12173?trk=public_post_comment-text) |                               [link](https://github.com/greshake/llm-security)                               |
 | 2022.11 | **Ignore Previous Prompt: Attack Techniques For Language Models (PromptInject)** |   NeurIPS WorkShop'22    | [link](https://arxiv.org/pdf/2211.09527) |                              [link](https://github.com/agencyenterprise/PromptInject)                              |
+
+
+
+
+
+#### White-box Attack
+
+| Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
+| ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 2024.08 | **Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation (JVD)** |      arXiv       |           [link](https://arxiv.org/pdf/2408.10668)           |                             -                              |
+| 2024.08 | **Jailbreak Open-Sourced Large Language Models via Enforced Decoding (EnDec)** |      ACL'24      | [link](https://aclanthology.org/2024.acl-long.299.pdf#page=4.96) |                             -                              |
+| 2024.07 | **Refusal in Language Models Is Mediated by a Single Direction** |      arXiv       |           [Link](https://arxiv.org/pdf/2406.11717)           |    [Link](https://github.com/andyrdt/refusal_direction)    |
+| 2024.07 | **Revisiting Character-level Adversarial Attacks for Language Models** |     ICML'24      |           [link](https://arxiv.org/abs/2405.04346)           |       [link](https://github.com/LIONS-EPFL/Charmer)        |
+| 2024.07 | **Badllama 3: removing safety finetuning from Llama 3 in minutes (Badllama 3)** |      arXiv       |           [link](https://arxiv.org/pdf/2407.01376)           |                             -                              |
+| 2024.07 | **SOS! Soft Prompt Attack Against Open-Source Large Language Models** |      arXiv       |           [link](https://arxiv.org/abs/2407.03160)           |                             -                              |
+| 2024.06 | **Improved Few-Shot Jailbreaking Can Circumvent Aligned Language Models and Their Defenses (I-FSJ)** |    NeurIPS'24    |           [link](https://arxiv.org/abs/2406.01288)           |          [link](https://github.com/sail-sg/I-FSJ)          |
+| 2024.06 | **COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability (COLD-Attack)** |     ICML'24      |           [link](https://arxiv.org/pdf/2402.08679)           |      [link](https://github.com/Yu-Fangxu/COLD-Attack)      |
+| 2024.06 | **Improved Techniques for Optimization-Based Jailbreaking on Large Language Models (I-GCG)** |      arXiv       |           [link](https://arxiv.org/abs/2405.21018)           |       [link](https://github.com/jiaxiaojunQAQ/I-GCG)       |
+| 2024.05 | **Semantic-guided Prompt Organization for Universal Goal Hijacking against LLMs** |      arXiv       |           [link](https://arxiv.org/abs/2405.14189)           |                                                            |
+| 2024.05 | **Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization** |    NeurIPS'24    |           [Link](https://arxiv.org/pdf/2405.09113)           |                             -                              |
+| 2024.05 | **AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models (AutoDAN)** |     ICLR'24      |           [link](https://arxiv.org/pdf/2310.04451)           |      [link](https://github.com/SheltonLiu-N/AutoDAN)       |
+| 2024.05 | **AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs (AmpleGCG)** |      arXiv       |           [link](https://arxiv.org/pdf/2404.07921)           |     [link](https://github.com/OSU-NLP-Group/AmpleGCG)      |
+| 2024.05 | **Boosting jailbreak attack with momentum (MAC)**            | ICLR Workshop'24 |           [link](https://arxiv.org/pdf/2405.01229)           |  [link](https://github.com/weizeming/momentum-attack-llm)  |
+| 2024.04 | **AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs (AdvPrompter)** |      arXiv       |           [link](https://arxiv.org/pdf/2404.16873)           |  [link](https://github.com/facebookresearch/advprompter)   |
+| 2024.03 | **Universal Jailbreak Backdoors from Poisoned Human Feedback** |     ICLR'24      |       [link](https://openreview.net/pdf?id=GxCGsxiAaK)       |                             -                              |
+| 2024.02 | **Attacking large language models with projected gradient descent (PGD)** |      arXiv       |           [link](https://arxiv.org/pdf/2402.09154)           |                             -                              |
+| 2024.02 | **Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering (JRE)** |      arXiv       |           [link](https://arxiv.org/pdf/2401.06824)           |                             -                              |
+| 2024.02 | **Curiosity-driven red-teaming for large language models (CRT)** |      arXiv       |           [link](https://arxiv.org/pdf/2402.19464)           | [link](https://github.com/Improbable-AI/curiosity_redteam) |
+| 2023.12 | **AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models (AutoDAN)** |      arXiv       |           [link](https://arxiv.org/abs/2310.15140)           |    [link](https://github.com/rotaryhammer/code-autodan)    |
+| 2023.10 | **Catastrophic jailbreak of open-source llms via exploiting generation** |     ICLR'24      |           [link](https://arxiv.org/pdf/2310.06987)           |  [link](https://github.com/Princeton-SysML/Jailbreak_LLM)  |
+| 2023.06 | **Automatically Auditing Large Language Models via Discrete Optimization (ARCA)** |     ICML'23      | [link](https://proceedings.mlr.press/v202/jones23a/jones23a.pdf) |     [link](https://github.com/ejones313/auditing-llms)     |
+| 2023.07 | **Universal and Transferable Adversarial Attacks on Aligned Language Models (GCG)** |      arXiv       |           [link](https://arxiv.org/pdf/2307.15043)           |     [link](https://github.com/llm-attacks/llm-attacks)     |
 
 
 
