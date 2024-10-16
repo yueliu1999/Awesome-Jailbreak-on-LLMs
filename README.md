@@ -146,6 +146,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time    | Title                                                        |   Venue   |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues** |   arXiv   | [link](https://arxiv.org/abs/2410.10700) |     [link](https://github.com/renqibing/ActorAttack)      |
 | 2024.09 | **LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet** |   arXiv   | [link](https://arxiv.org/pdf/2408.15221) |     [link](https://huggingface.co/datasets/ScaleAI/mhj)      |
 | 2024.09 | **RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking** |   arXiv   | [link](https://arxiv.org/pdf/2409.17458) |       [link](https://github.com/kriti-hippo/red_queen)       |
 | 2024.08 | **Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks** |   arXiv   | [link](https://arxiv.org/pdf/2409.00137) | [link](https://huggingface.co/datasets/tom-gibbs/multi-turn_jailbreak_attack_datasets) |
