@@ -395,6 +395,8 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 ## Reference
 
+If you find this repository helpful to your research, it is really appreciated to cite our papers. :sparkles:
+
 ```
 @article{liuyue_FlipAttack,
   title={FlipAttack: Jailbreak LLMs via Flipping},
