@@ -220,7 +220,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.10 | **VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data** | arXiv | [link](https://arxiv.org/html/2410.00296v1) | - |
-| 2024.10 | **MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks** | arXiv | [link](https://arxiv.org/pdf/2409.17699) | - |
+| 2024.10 | **MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks** | AAAI'24 | [link](https://arxiv.org/pdf/2409.17699) | - |
 | 2024.08 | **BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger (BaThe)** |   arXiv    | [link](https://arxiv.org/pdf/2408.09093)  |                               -                              |
 | 2024.07 | **DART: Deep Adversarial Automated Red Teaming for LLM Safety** |   arXiv    | [link](https://arxiv.org/abs/2407.03876)  |                               -                              |
 | 2024.07 | **Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge (Eraser)** |   arXiv    | [link](https://arxiv.org/pdf/2404.05880) |                              [link](https://github.com/ZeroNLP/Eraser)                               |
