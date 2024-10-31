@@ -116,6 +116,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
 | ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 2024.10 | **Jailbreak Instruction-Tuned LLMs via end-of-sentence MLP Re-weighting** |      arXiv       |           [link](https://arxiv.org/pdf/2410.10150v1)           |                            -                              |
 | 2024.10 | **Boosting Jailbreak Transferability for Large Language Models (SI-GCG)** |      arXiv       |           [link](https://arxiv.org/pdf/2410.15645v1)           |                            -                              |
 | 2024.10 | **Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities (ADV-LLM)** |      arXiv       |           [link](https://arxiv.org/pdf/2410.18469v1)           |                             [link](https://github.com/SunChungEn/ADV-LLM)                               |
 | 2024.08 | **Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation (JVD)** |      arXiv       |           [link](https://arxiv.org/pdf/2408.10668)           |                             -                              |
@@ -151,6 +152,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time    | Title                                                        |   Venue   |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models (JSP)** |   arXiv   | [link](https://arxiv.org/pdf/2410.11459v1) |    [link](https://github.com/YangHao97/JigSawPuzzles)      |
 | 2024.10 | **Multi-round jailbreak attack on large language** |   arXiv   | [link](https://arxiv.org/pdf/2410.11533v1) |     -      |
 | 2024.10 | **Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues** |   arXiv   | [link](https://arxiv.org/abs/2410.10700) |     [link](https://github.com/renqibing/ActorAttack)      |
 | 2024.09 | **LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet** |   arXiv   | [link](https://arxiv.org/pdf/2408.15221) |     [link](https://huggingface.co/datasets/ScaleAI/mhj)      |
