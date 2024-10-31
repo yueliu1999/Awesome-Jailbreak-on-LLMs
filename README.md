@@ -115,6 +115,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
 | ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 2024.10 | **Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities (ADV-LLM)** |      arXiv       |           [link](https://arxiv.org/pdf/2410.18469v1)           |                             [link](https://github.com/SunChungEn/ADV-LLM)                               |
 | 2024.08 | **Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation (JVD)** |      arXiv       |           [link](https://arxiv.org/pdf/2408.10668)           |                             -                              |
 | 2024.08 | **Jailbreak Open-Sourced Large Language Models via Enforced Decoding (EnDec)** |      ACL'24      | [link](https://aclanthology.org/2024.acl-long.299.pdf#page=4.96) |                             -                              |
 | 2024.07 | **Refusal in Language Models Is Mediated by a Single Direction** |      arXiv       |           [Link](https://arxiv.org/pdf/2406.11717)           |    [Link](https://github.com/andyrdt/refusal_direction)    |
@@ -319,6 +320,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **A Realistic Threat Model for Large Language Model Jailbreaks** | arXiv | [link](https://arxiv.org/pdf/2410.16222v1) | [link](https://github.com/valentyn1boreiko/llm-threat-model) |
 | 2024.10 | **ADVERSARIAL SUFFIXES MAY BE FEATURES TOO!** | arXiv | [link](https://arxiv.org/pdf/2410.00451) | [link](https://github.com/suffix-maybe-feature/adver-suffix-maybe-features) |
 | 2024.09 | **JAILJUDGE: A COMPREHENSIVE JAILBREAK** | arXiv | [Link](https://openreview.net/pdf?id=cLYvhd0pDY) | [Link](https://anonymous.4open.science/r/public_multiagents_judge-66CB/README.md) |
 | 2024.09 | **Multimodal Pragmatic Jailbreak on Text-to-image Models** | arXiv | [link](https://arxiv.org/pdf/2409.19149) | [link](https://github.com/multimodalpragmatic/multimodalpragmatic/tree/main) |
@@ -383,6 +385,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis** |   arXiv    | [link](https://arxiv.org/pdf/2410.15641v1) |        [link](https://github.com/IDEA-XL/ChemSafety)      |
 | 2024.10 | **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates** |   arXiv    | [link](https://arxiv.org/pdf/2410.07137) |        [link](https://github.com/sail-sg/Cheating-LLM-Benchmarks)      |
 | 2024.08 | **A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares (APwT)** |   arXiv    | [link](https://arxiv.org/pdf/2408.05061) |                              -  |
 
