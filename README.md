@@ -40,6 +40,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
+| 2024.10 | **Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation** |   arXiv    | [link](https://arxiv.org/pdf/2410.11317v1) |        [link](https://github.com/qizhangli/Adversarial-Prompt-Translator)      |
 | 2024.10 | **AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs (AutoDAN-Turbo)** |   arXiv    | [link](https://arxiv.org/pdf/2410.05295) |        [link](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)      |
 | 2024.10 | **PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach (PathSeeker)** | arXiv | [link](https://www.arxiv.org/pdf/2409.14177) | - |
 | 2024.10 | **Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity** | arXiv | [link](https://arxiv.org/pdf/2409.18708) | [link](https://github.com/Serbernari/ToxASCII) |
@@ -387,6 +388,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **Jailbreaking LLM-Controlled Robots (ROBOPAIR)** |   arXiv    | [link](https://arxiv.org/pdf/2410.13691v1) |        [link](https://robopair.org/)      |
 | 2024.10 | **SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis** |   arXiv    | [link](https://arxiv.org/pdf/2410.15641v1) |        [link](https://github.com/IDEA-XL/ChemSafety)      |
 | 2024.10 | **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates** |   arXiv    | [link](https://arxiv.org/pdf/2410.07137) |        [link](https://github.com/sail-sg/Cheating-LLM-Benchmarks)      |
 | 2024.08 | **A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares (APwT)** |   arXiv    | [link](https://arxiv.org/pdf/2408.05061) |                              -  |
