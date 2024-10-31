@@ -33,12 +33,11 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-
-
 #### Black-box Attack
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **You Know What I'm Saying: Jailbreak Attack via Implicit Reference** |   arXiv    | [link](https://arxiv.org/pdf/2410.03857v2) |        [link](https://github.com/Lucas-TY/llm_Implicit_reference)      |
 | 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2024.10 | **Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation** |   arXiv    | [link](https://arxiv.org/pdf/2410.11317v1) |        [link](https://github.com/qizhangli/Adversarial-Prompt-Translator)      |
 | 2024.10 | **AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs (AutoDAN-Turbo)** |   arXiv    | [link](https://arxiv.org/pdf/2410.05295) |        [link](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)      |
@@ -112,10 +111,20 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
+
+
+
+
+
+
 #### White-box Attack
 
 | Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
 | ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 2024.10 | **Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks** |      arXiv       |           [link](https://arxiv.org/pdf/2410.04234)           |                           -                              |
+| 2024.10 | **AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation** |      arXiv       |           [link](https://arxiv.org/pdf/2410.09040v1)           |                           [link](https://github.com/UCSC-VLAA/AttnGCG-attack)                               |
 | 2024.10 | **Jailbreak Instruction-Tuned LLMs via end-of-sentence MLP Re-weighting** |      arXiv       |           [link](https://arxiv.org/pdf/2410.10150v1)           |                            -                              |
 | 2024.10 | **Boosting Jailbreak Transferability for Large Language Models (SI-GCG)** |      arXiv       |           [link](https://arxiv.org/pdf/2410.15645v1)           |                            -                              |
 | 2024.10 | **Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities (ADV-LLM)** |      arXiv       |           [link](https://arxiv.org/pdf/2410.18469v1)           |                             [link](https://github.com/SunChungEn/ADV-LLM)                               |
