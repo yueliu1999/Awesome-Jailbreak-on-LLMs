@@ -115,6 +115,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
 | ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 2024.10 | **Boosting Jailbreak Transferability for Large Language Models (SI-GCG)** |      arXiv       |           [link](https://arxiv.org/pdf/2410.15645v1)           |                            -                              |
 | 2024.10 | **Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities (ADV-LLM)** |      arXiv       |           [link](https://arxiv.org/pdf/2410.18469v1)           |                             [link](https://github.com/SunChungEn/ADV-LLM)                               |
 | 2024.08 | **Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation (JVD)** |      arXiv       |           [link](https://arxiv.org/pdf/2408.10668)           |                             -                              |
 | 2024.08 | **Jailbreak Open-Sourced Large Language Models via Enforced Decoding (EnDec)** |      ACL'24      | [link](https://aclanthology.org/2024.acl-long.299.pdf#page=4.96) |                             -                              |
@@ -265,6 +266,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models (G4D)** | arXiv | [link](https://arxiv.org/pdf/2410.17922v1) |  [link](https://github.com/IDEA-XL/G4D) |
 | 2024.10 | **Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models** | arXiv | [link](https://arxiv.org/html/2410.02298v1) | - |
 | 2024.09 | **HSF: Defending against Jailbreak Attacks with Hidden State Filtering** | arXiv | [link](https://arxiv.org/html/2409.03788v1) | [link](https://anonymous.4open.science/r/Hidden-State-Filtering-8652/) |
 | 2024.08 | **EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models (EEG-Defender)** |   arXiv    | [link](https://arxiv.org/pdf/2408.11308) |                              -                               |
