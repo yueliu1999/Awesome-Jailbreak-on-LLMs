@@ -264,12 +264,16 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
+
 #### Strategy-based Defense
 
 
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.10 | **RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process (RePD)** | arXiv | [link](https://arxiv.org/pdf/2410.08660v1) |  - |
 | 2024.10 | **Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models (G4D)** | arXiv | [link](https://arxiv.org/pdf/2410.17922v1) |  [link](https://github.com/IDEA-XL/G4D) |
 | 2024.10 | **Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models** | arXiv | [link](https://arxiv.org/html/2410.02298v1) | - |
 | 2024.09 | **HSF: Defending against Jailbreak Attacks with Hidden State Filtering** | arXiv | [link](https://arxiv.org/html/2409.03788v1) | [link](https://anonymous.4open.science/r/Hidden-State-Filtering-8652/) |
