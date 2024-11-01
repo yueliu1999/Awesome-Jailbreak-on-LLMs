@@ -38,6 +38,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
+| 2024.10 | **Endless Jailbreaks with Bijection** |   arXiv    | [link](https://arxiv.org/pdf/2410.01294v1) |       -    |
 | 2024.10 | **Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2410.04190v1) |        -      |
 | 2024.10 | **You Know What I'm Saying: Jailbreak Attack via Implicit Reference** |   arXiv    | [link](https://arxiv.org/pdf/2410.03857v2) |        [link](https://github.com/Lucas-TY/llm_Implicit_reference)      |
 | 2024.10 | **Deciphering the Chaos: Enhancing Jailbreak Attacks via Adversarial Prompt Translation** |   arXiv    | [link](https://arxiv.org/pdf/2410.11317v1) |        [link](https://github.com/qizhangli/Adversarial-Prompt-Translator)      |
