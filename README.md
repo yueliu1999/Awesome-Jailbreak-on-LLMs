@@ -199,7 +199,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.10 | **Attacking Vision-Language Computer Agents via Pop-ups** | arXiv | [link](https://arxiv.org/pdf/2411.02391) | [link](https://github.com/SALT-NLP/PopupAttack) |
 | 2024.10 | **Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step** | arXiv | [link](https://arxiv.org/pdf/2410.03869) | - |
 | 2024.10 | **ColJailBreak: Collaborative Generation and Editing for Jailbreaking Text-to-Image Deep Generation** | NeurIPS'24 | [Link](https://nips.cc/virtual/2024/poster/94287) | - |
 | 2024.08 | **Jailbreaking Text-to-Image Models with LLM-Based Agents (Atlas)** |   arXiv    | [link](https://arxiv.org/pdf/2408.00523) |                              -                              |
@@ -408,8 +407,10 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 ### Application
 
+
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **Attacking Vision-Language Computer Agents via Pop-ups** | arXiv | [link](https://arxiv.org/pdf/2411.02391) | [link](https://github.com/SALT-NLP/PopupAttack) |
 | 2024.10 | **Jailbreaking LLM-Controlled Robots (ROBOPAIR)** |   arXiv    | [link](https://arxiv.org/pdf/2410.13691v1) |        [link](https://robopair.org/)      |
 | 2024.10 | **SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis** |   arXiv    | [link](https://arxiv.org/pdf/2410.15641v1) |        [link](https://github.com/IDEA-XL/ChemSafety)      |
 | 2024.10 | **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates** |   arXiv    | [link](https://arxiv.org/pdf/2410.07137) |        [link](https://github.com/sail-sg/Cheating-LLM-Benchmarks)      |
