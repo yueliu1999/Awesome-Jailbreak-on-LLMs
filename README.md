@@ -37,7 +37,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.11 | **MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue** |   arXiv    | [link](https://arxiv.org/pdf/2411.03814) |      -    |
 | 2024.10 | **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring** |   arXiv    | [link](https://arxiv.org/pdf/2410.21083) |      -    |
 | 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2024.10 | **Endless Jailbreaks with Bijection** |   arXiv    | [link](https://arxiv.org/pdf/2410.01294v1) |       -    |
@@ -166,6 +165,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time    | Title                                                        |   Venue   |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue** |   arXiv    | [link](https://arxiv.org/pdf/2411.03814) |      -    |
 | 2024.10 | **Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models (JSP)** |   arXiv   | [link](https://arxiv.org/pdf/2410.11459v1) |    [link](https://github.com/YangHao97/JigSawPuzzles)      |
 | 2024.10 | **Multi-round jailbreak attack on large language** |   arXiv   | [link](https://arxiv.org/pdf/2410.11533v1) |     -      |
 | 2024.10 | **Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues** |   arXiv   | [link](https://arxiv.org/abs/2410.10700) |     [link](https://github.com/renqibing/ActorAttack)      |
