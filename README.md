@@ -341,6 +341,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.04 | **Llama Guard 2**                                            |    Meta    | [link](https://www.llama.com/docs/model-cards-and-prompt-formats/meta-llama-guard-2/) | [link](https://github.com/meta-llama/PurpleLlama/blob/main/Llama-Guard2/MODEL_CARD.md) |
 | 2024.03 | **AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting (AdaShield)** |  ECCV'24   |           [link](https://arxiv.org/pdf/2403.09513)           |      [link](https://github.com/SaFoLab-WISC/AdaShield)       |
 | 2023.12 | **Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations (LLaMA Guard)** |    Meta    |           [link](https://arxiv.org/pdf/2312.06674)           | [link](https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard) |
+| 2023.02 | **A Holistic Approach to Undesired Content Detection in the Real World (OpenAI Moderation Endpoint)** |    AAAI    |           [link](https://arxiv.org/pdf/2208.03274)           |   [link](https://github.com/openai/moderation-api-release)   |
 
 
 
