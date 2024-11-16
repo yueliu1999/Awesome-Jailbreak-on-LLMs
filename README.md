@@ -17,6 +17,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 - [Jailbreak Defense](#jailbreak-defense)
   - [Learning-based Defense](#learning-based-defense)
   - [Strategy-based Defense](#strategy-based-defense)
+  - [Guard Model](#Guard-model)
 - [Evaluation & Analysis](#evaluation--analysis)
 - [Application](#application)
 
@@ -239,7 +240,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 #### Learning-based Defense
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.10 | **VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data** | arXiv | [link](https://arxiv.org/html/2410.00296v1) | - |
 | 2024.10 | **MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks** | AAAI'24 | [link](https://arxiv.org/pdf/2409.17699) | - |
 | 2024.08 | **BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger (BaThe)** |   arXiv    | [link](https://arxiv.org/pdf/2408.09093)  |                               -                              |
 | 2024.07 | **DART: Deep Adversarial Automated Red Teaming for LLM Safety** |   arXiv    | [link](https://arxiv.org/abs/2407.03876)  |                               -                              |
@@ -310,7 +310,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.05 | **Bergeron: Combating adversarial attacks through a conscience-based alignment framework (Bergeron)** |   arXiv    | [link](https://arxiv.org/pdf/2312.00029) |                             [link](https://github.com/matthew-pisano/Bergeron)                               |
 | 2024.05 | **Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations (ICD)** |   arXiv    | [link](https://arxiv.org/pdf/2310.06387)  |                              -                               |
 | 2024.04 | **Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning** |   arXiv    | [link](https://arxiv.org/pdf/2401.10862)  |                              [link](https://github.com/CrystalEye42/eval-safety)                                |
-| 2024.03 | **AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting (AdaShield)** |   ECCV'24    | [link](https://arxiv.org/pdf/2403.09513) |                              [link](https://github.com/SaFoLab-WISC/AdaShield)                              |
 | 2024.02 | **Certifying LLM Safety against Adversarial Prompting** |   arXiv    | [link](https://arxiv.org/pdf/2309.02705) |                              [link](https://github.com/aounon/certified-llm-safety)                              |
 | 2024.02 | **Break the Breakout: Reinventing LM Defense Against Jailbreak Attacks with Self-Refinement** |   arXiv    | [link](https://arxiv.org/pdf/2402.15180) |                              -                              |
 | 2024.02 | **Defending large language models against jailbreak attacks via semantic smoothing (SEMANTICSMOOTH)** |   arXiv    | [link](https://arxiv.org/pdf/2402.16192) |                              [link](https://github.com/UCSB-NLP-Chang/SemanticSmooth)                             |
@@ -326,11 +325,22 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+#### Guard Model
 
 
 
-
-
+| Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
+| ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **STAND-Guard: A Small Task-Adaptive Content Moderation Model** | Microsoft  |          [link](https://arxiv.org/pdf/2411.05214v1)          |                              -                               |
+| 2024.10 | **VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data** |   arXiv    |         [link](https://arxiv.org/html/2410.00296v1)          |                              -                               |
+| 2024.09 | **AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts** |   Nvidia   |           [link](https://arxiv.org/abs/2404.05993)           | [link](https://huggingface.co/nvidia/Aegis-AI-Content-Safety-LlamaGuard-Defensive-1.0) |
+| 2024.09 | **Llama 3.2: Revolutionizing edge AI and vision with open, customizable models (LLaMA Guard 3)** |    Meta    | [link](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/) |  [link](https://huggingface.co/meta-llama/Llama-Guard-3-1B)  |
+| 2024.08 | **ShieldGemma: Generative AI Content Moderation Based on Gemma (ShieldGemma)** |   Google   |           [link](https://arxiv.org/pdf/2407.21772)           |     [link](https://huggingface.co/google/shieldgemma-2b)     |
+| 2024.07 | **WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs (WildGuard)** | NeurIPS'24 |           [link](https://arxiv.org/pdf/2406.18495)           |         [link](https://github.com/allenai/wildguard)         |
+| 2024.06 | **R2-Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning (R2-Guard)** |   arXiv    |           [link](https://arxiv.org/abs/2407.05557)           |       [link](https://github.com/kangmintong/R-2-Guard)       |
+| 2024.04 | **Llama Guard 2**                                            |    Meta    | [link](https://www.llama.com/docs/model-cards-and-prompt-formats/meta-llama-guard-2/) | [link](https://github.com/meta-llama/PurpleLlama/blob/main/Llama-Guard2/MODEL_CARD.md) |
+| 2024.03 | **AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting (AdaShield)** |  ECCV'24   |           [link](https://arxiv.org/pdf/2403.09513)           |      [link](https://github.com/SaFoLab-WISC/AdaShield)       |
+| 2023.12 | **Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations (LLaMA Guard)** |    Meta    |           [link](https://arxiv.org/pdf/2312.06674)           | [link](https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard) |
 
 
 
@@ -355,7 +365,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.08 | **Mission Impossible: A Statistical Perspective on Jailbreaking LLMs** | NeurIPS'24 | [Link](https://arxiv.org/pdf/2408.01420) | - |
 | 2024.07 | **Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)** |    arXiv   | [link](https://arxiv.org/abs/2407.14937) | [link](https://github.com/dapurv5/awesome-llm-red-teaming) |
 | 2024.07 | **JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks** |    arXiv   | [link](https://arxiv.org/abs/2404.03027) | [link](https://github.com/EddyLuo1232/JailBreakV_28K) |
-| 2024.07 | **WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs (WildGuard)** |   NeurIPS'24   | [link](https://arxiv.org/pdf/2406.18495)  |                       [link](https://github.com/allenai/wildguard)                       |
 | 2024.07 | **Jailbreak Attacks and Defenses Against Large Language Models: A Survey** |   arXiv    | [link](https://arxiv.org/abs/2407.04295)  |                     -                         |
 | 2024.06 | **"Not Aligned" is Not "Malicious": Being Careful about Hallucinations of Large Language Models' Jailbreak** |   arXiv    | [link](https://arxiv.org/pdf/2406.11668) |                              [link](https://github.com/Meirtz/BabyBLUE-llm)                               |
 | 2024.06 | **WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models (WildTeaming)** |   NeurIPS'24   | [link](https://arxiv.org/pdf/2406.18510) |                              [link](https://github.com/allenai/wildteaming)                               |
