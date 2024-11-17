@@ -328,8 +328,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 #### Guard Model
 
-
-
 | Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
 | ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.11 | **STAND-Guard: A Small Task-Adaptive Content Moderation Model (STAND-Guard)** | Microsoft  |          [link](https://arxiv.org/pdf/2411.05214v1)          |                              -                               |
