@@ -349,13 +349,15 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
-|  Time   | Title                                                        | Venue           | Paper                                      |                             Code                             |
-| :-----: | ------------------------------------------------------------ | --------------- | ------------------------------------------ | :----------------------------------------------------------: |
-| 2023.08 | **Using GPT-4 for content moderation (GPT-4)**               | OpenAI          | [link](Using GPT-4 for content moderation) |                              -                               |
-| 2023.02 | **A Holistic Approach to Undesired Content Detection in the Real World (OpenAI Moderation Endpoint)** | AAAI OpenAI     | [link](https://arxiv.org/pdf/2208.03274)   |   [link](https://github.com/openai/moderation-api-release)   |
-| 2022.02 | **A New Generation of Perspective API: Efficient Multilingual Character-level Transformers (Perspective API)** | KDD Google      | [link](https://arxiv.org/pdf/2202.11176)   |             [link](https://perspectiveapi.com/)              |
-|    -    | **Azure AI Content Safety**                                  | Microsoft Azure | -                                          | [link](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety/) |
-|    -    | **Detoxify**                                                 | unitary.ai      | -                                          |        [link](https://github.com/unitaryai/detoxify)         |
+| Time    | Title                                                        |      Venue      |                   Paper                    |                     Code                      |
+| ------- | ------------------------------------------------------------ | :-------------: | :----------------------------------------: | :-------------------------------------------: |
+| 2023.08 | **Using GPT-4 for content moderation (GPT-4)**               |     OpenAI      | [link](Using GPT-4 for content moderation) |                       -                       |
+| 2023.02 | **A Holistic Approach to Undesired Content Detection in the Real World (OpenAI Moderation Endpoint)** |   AAAI OpenAI   |  [link](https://arxiv.org/pdf/2208.03274)  |                    [link](                    |
+| 2022.02 | **A New Generation of Perspective API: Efficient Multilingual Character-level Transformers (Perspective API)** |   KDD Google    |  [link](https://arxiv.org/pdf/2202.11176)  |                    [link](                    |
+| -       | **Azure AI Content Safety**                                  | Microsoft Azure |                     -                      |                    [link](                    |
+| -       | **Detoxify**                                                 |   unitary.ai    |                     -                      | [link](https://github.com/unitaryai/detoxify) |
+
+
 
 
 
