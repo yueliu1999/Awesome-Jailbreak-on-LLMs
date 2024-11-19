@@ -203,6 +203,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey** | arXiv | [link](https://arxiv.org/pdf/2411.09259) | [link](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak) |
 | 2024.10 | **Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step** | arXiv | [link](https://arxiv.org/pdf/2410.03869) | - |
 | 2024.10 | **ColJailBreak: Collaborative Generation and Editing for Jailbreaking Text-to-Image Deep Generation** | NeurIPS'24 | [Link](https://nips.cc/virtual/2024/poster/94287) | - |
 | 2024.08 | **Jailbreaking Text-to-Image Models with LLM-Based Agents (Atlas)** |   arXiv    | [link](https://arxiv.org/pdf/2408.00523) |                              -                              |
