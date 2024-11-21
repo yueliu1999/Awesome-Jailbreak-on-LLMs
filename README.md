@@ -39,6 +39,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2410.23558v1) |      [link](https://github.com/YQYANG2233/Large-Language-Model-Break-AI)    |
 | 2024.10 | **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring** |   arXiv    | [link](https://arxiv.org/pdf/2410.21083) |      -    |
 | 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2024.10 | **Endless Jailbreaks with Bijection** |   arXiv    | [link](https://arxiv.org/pdf/2410.01294v1) |       -    |
