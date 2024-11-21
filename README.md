@@ -40,7 +40,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.11 | **Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2410.23558v1) |      [link](https://github.com/YQYANG2233/Large-Language-Model-Break-AI)    |
-| 2024.10 | **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring** |   arXiv    | [link](https://arxiv.org/pdf/2410.21083) |      -    |
+| 2024.11 | **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring** |   arXiv    | [link](https://arxiv.org/pdf/2410.21083) |      -    |
 | 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2024.10 | **Endless Jailbreaks with Bijection** |   arXiv    | [link](https://arxiv.org/pdf/2410.01294v1) |       -    |
 | 2024.10 | **Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2410.04190v1) |        -      |
@@ -129,6 +129,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
 | ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 2024.11 | **AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts** |      arXiv       |           [link](https://arxiv.org/pdf/2410.22143v1)           |                          -                             |
 | 2024.11 | **DROJ: A Prompt-Driven Attack against Large Language Models** |      arXiv       |           [link](https://arxiv.org/pdf/2411.09125)           |                           [link](https://github.com/Leon-Leyang/LLM-Safeguard)                              |
 | 2024.11 | **SQL Injection Jailbreak: a structural disaster of large language models** |      arXiv       |           [link](https://arxiv.org/pdf/2411.01565)           |                           [link](https://github.com/weiyezhimeng/SQL-Injection-Jailbreak)                              |
 | 2024.10 | **Functional Homotopy: Smoothing Discrete Optimization via Continuous Parameters for LLM Jailbreak Attacks** |      arXiv       |           [link](https://arxiv.org/pdf/2410.04234)           |                           -                              |
@@ -366,6 +367,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **Benchmarking LLM Guardrails in Handling Multilingual Toxicity** | arXiv | [link](https://arxiv.org/pdf/2410.22153v1) | [link](https://commoncrawl.github.io/cc-crawl-statistics/plots/languages.html) |
 | 2024.10 | **Do LLMs Have Political Correctness? Analyzing Ethical Biases and Jailbreak Vulnerabilities in AI Systems** | arXiv | [link](https://arxiv.org/pdf/2410.13334v1) | [link](https://anonymous.4open.science/r/PCJailbreak-F2B0/README.md) |
 | 2024.10 | **A Realistic Threat Model for Large Language Model Jailbreaks** | arXiv | [link](https://arxiv.org/pdf/2410.16222v1) | [link](https://github.com/valentyn1boreiko/llm-threat-model) |
 | 2024.10 | **ADVERSARIAL SUFFIXES MAY BE FEATURES TOO!** | arXiv | [link](https://arxiv.org/pdf/2410.00451) | [link](https://github.com/suffix-maybe-feature/adver-suffix-maybe-features) |
