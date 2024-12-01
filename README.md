@@ -39,6 +39,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **Playing Language Game with LLMs Leads to Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2411.12762v1) | [link](https://anonymous.4open.science/r/encode_jailbreaking_anonymous-B4C4/README.md) |
 | 2024.11 | **GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs (GASP)** | arXiv | [link](https://arxiv.org/pdf/2411.14133v1) | [link](https://github.com/llm-gasp/gasp) |
 | 2024.11 | **LLM STINGER: Jailbreaking LLMs using RL fine-tuned LLMs** | arXiv | [link](https://arxiv.org/pdf/2411.08862v1) | - |
 | 2024.11 | **SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt** | arXiv | [link](https://arxiv.org/pdf/2411.06426v1) | [link](https://anonymous.4open.science/r/JailBreakAttack-4F3B/) |
@@ -370,9 +371,13 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
+
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **Global Challenge for Safe and Secure LLMs Track 1** | arXiv | [link](https://arxiv.org/pdf/2411.14502v1) | -  |
 | 2024.11 | **JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Representation and Circuit** | arXiv | [link](https://arxiv.org/pdf/2411.11114v1) | -  |
 | 2024.11 | **The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense** | arXiv | [link](https://arxiv.org/pdf/2411.08410v1) | -  |
 | 2024.11 | **HarmLevelBench: Evaluating Harm-Level Compliance and the Impact of Quantization on Model Alignment** | arXiv | [link](https://arxiv.org/pdf/2411.06835v1) | - |
