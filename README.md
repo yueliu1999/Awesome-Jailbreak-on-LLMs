@@ -369,6 +369,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain** | arXiv | [link](https://arxiv.org/pdf/2411.16736) | [link](https://github.com/HaochenZhao/SafeAgent4Chem) |
 | 2024.11 | **GuardBench: A Large-Scale Benchmark for Guardrail Models** | EMNLP'24 | [link](https://aclanthology.org/2024.emnlp-main.1022.pdf) | [link](https://github.com/AmenRa/guardbench) |
 | 2024.11 | **What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks** | arXiv | [Link](https://arxiv.org/pdf/2411.03343v1) | [link](https://github.com/NLie2/what_features_jailbreak_LLMs) |
 | 2024.11 | **Benchmarking LLM Guardrails in Handling Multilingual Toxicity** | arXiv | [link](https://arxiv.org/pdf/2410.22153v1) | [link](https://commoncrawl.github.io/cc-crawl-statistics/plots/languages.html) |
