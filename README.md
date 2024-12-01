@@ -39,6 +39,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **LLM STINGER: Jailbreaking LLMs using RL fine-tuned LLMs** | arXiv | [link](https://arxiv.org/pdf/2411.08862v1) | - |
 | 2024.11 | **SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt** | arXiv | [link](https://arxiv.org/pdf/2411.06426v1) | [link](https://anonymous.4open.science/r/JailBreakAttack-4F3B/) |
 | 2024.11 | **Diversity Helps Jailbreak Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2411.04223v1) | - |
 | 2024.11 | **Plentiful Jailbreaks with String Compositions** | arXiv | [link](https://arxiv.org/pdf/2411.01084v1) | - |
@@ -371,6 +372,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense** | arXiv | [link](https://arxiv.org/pdf/2411.08410v1) | -  |
 | 2024.11 | **HarmLevelBench: Evaluating Harm-Level Compliance and the Impact of Quantization on Model Alignment** | arXiv | [link](https://arxiv.org/pdf/2411.06835v1) | - |
 | 2024.11 | **ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain** | arXiv | [link](https://arxiv.org/pdf/2411.16736) | [link](https://github.com/HaochenZhao/SafeAgent4Chem) |
 | 2024.11 | **GuardBench: A Large-Scale Benchmark for Guardrail Models** | EMNLP'24 | [link](https://aclanthology.org/2024.emnlp-main.1022.pdf) | [link](https://github.com/AmenRa/guardbench) |
