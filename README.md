@@ -443,6 +443,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.10 | **Jailbreaking LLM-Controlled Robots (ROBOPAIR)** |   arXiv    | [link](https://arxiv.org/pdf/2410.13691v1) |        [link](https://robopair.org/)      |
 | 2024.10 | **SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis** |   arXiv    | [link](https://arxiv.org/pdf/2410.15641v1) |        [link](https://github.com/IDEA-XL/ChemSafety)      |
 | 2024.10 | **Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates** |   arXiv    | [link](https://arxiv.org/pdf/2410.07137) |        [link](https://github.com/sail-sg/Cheating-LLM-Benchmarks)      |
+| 2024.09 | **RoleBreak: Character Hallucination as a Jailbreak Attack in Role-Playing Systems** |   arXiv    | [link](https://arxiv.org/pdf/2409.16727) |                              -  |
 | 2024.08 | **A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares (APwT)** |   arXiv    | [link](https://arxiv.org/pdf/2408.05061) |                              -  |
 
 
