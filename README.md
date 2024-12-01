@@ -39,6 +39,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **SequentialBreak: Large Language Models Can be Fooled by Embedding Jailbreak Prompts into Sequential Prompt** | arXiv | [link](https://arxiv.org/pdf/2411.06426v1) | [link](https://anonymous.4open.science/r/JailBreakAttack-4F3B/) |
 | 2024.11 | **Diversity Helps Jailbreak Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2411.04223v1) | - |
 | 2024.11 | **Plentiful Jailbreaks with String Compositions** | arXiv | [link](https://arxiv.org/pdf/2411.01084v1) | - |
 | 2024.11 | **Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2410.23558v1) |      [link](https://github.com/YQYANG2233/Large-Language-Model-Break-AI)    |
@@ -294,6 +295,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **Rapid Response: Mitigating LLM Jailbreaks with a Few Examples** | arXiv | [link](https://arxiv.org/pdf/2411.07494v1) | [link](https://github.com/rapidresponsebench/rapidresponsebench) |
 | 2024.10 | **RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process (RePD)** | arXiv | [link](https://arxiv.org/pdf/2410.08660v1) |  - |
 | 2024.10 | **Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models (G4D)** | arXiv | [link](https://arxiv.org/pdf/2410.17922v1) |  [link](https://github.com/IDEA-XL/G4D) |
 | 2024.10 | **Jailbreak Antidote: Runtime Safety-Utility Balance via Sparse Representation Adjustment in Large Language Models** | arXiv | [link](https://arxiv.org/html/2410.02298v1) | - |
@@ -369,6 +371,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **HarmLevelBench: Evaluating Harm-Level Compliance and the Impact of Quantization on Model Alignment** | arXiv | [link](https://arxiv.org/pdf/2411.06835v1) | - |
 | 2024.11 | **ChemSafetyBench: Benchmarking LLM Safety on Chemistry Domain** | arXiv | [link](https://arxiv.org/pdf/2411.16736) | [link](https://github.com/HaochenZhao/SafeAgent4Chem) |
 | 2024.11 | **GuardBench: A Large-Scale Benchmark for Guardrail Models** | EMNLP'24 | [link](https://aclanthology.org/2024.emnlp-main.1022.pdf) | [link](https://github.com/AmenRa/guardbench) |
 | 2024.11 | **What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks** | arXiv | [Link](https://arxiv.org/pdf/2411.03343v1) | [link](https://github.com/NLie2/what_features_jailbreak_LLMs) |
