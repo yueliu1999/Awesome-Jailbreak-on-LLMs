@@ -340,7 +340,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
 | ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024.11 | **AEGIS2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails (Aegis2.0)** | Nvidia  |          [link](https://openreview.net/pdf?id=0MvGCv35wi)          |                              -                               |
+| 2024.11 | **AEGIS2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails (Aegis2.0)** | Nvidia, NeurIPS'24  |          [link](https://openreview.net/pdf?id=0MvGCv35wi)          |                              -                               |
 | 2024.11 | **STAND-Guard: A Small Task-Adaptive Content Moderation Model (STAND-Guard)** | Microsoft  |          [link](https://arxiv.org/pdf/2411.05214v1)          |                              -                               |
 | 2024.10 | **VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data** |   arXiv    |         [link](https://arxiv.org/html/2410.00296v1)          |                              -                               |
 | 2024.09 | **AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts (Aegis)** |   Nvidia   |           [link](https://arxiv.org/abs/2404.05993)           | [link](https://huggingface.co/nvidia/Aegis-AI-Content-Safety-LlamaGuard-Defensive-1.0) |
