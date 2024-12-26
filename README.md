@@ -380,6 +380,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.12 | **Agent-SafetyBench: Evaluating the Safety of LLM Agents** | arXiv | [link](https://arxiv.org/pdf/2412.14470) |  [link](https://github.com/thu-coai/Agent-SafetyBench)  |
 | 2024.11 | **Global Challenge for Safe and Secure LLMs Track 1** | arXiv | [link](https://arxiv.org/pdf/2411.14502v1) | -  |
 | 2024.11 | **JailbreakLens: Interpreting Jailbreak Mechanism in the Lens of Representation and Circuit** | arXiv | [link](https://arxiv.org/pdf/2411.11114v1) | -  |
 | 2024.11 | **The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense** | arXiv | [link](https://arxiv.org/pdf/2411.08410v1) | -  |
