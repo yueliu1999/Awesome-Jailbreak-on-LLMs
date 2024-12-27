@@ -39,6 +39,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024.11 | **The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2411.11407) | [link](https://github.com/YancyKahn/DarkCite) |
 | 2024.11 | **Playing Language Game with LLMs Leads to Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2411.12762v1) | [link](https://anonymous.4open.science/r/encode_jailbreaking_anonymous-B4C4/README.md) |
 | 2024.11 | **GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs (GASP)** | arXiv | [link](https://arxiv.org/pdf/2411.14133v1) | [link](https://github.com/llm-gasp/gasp) |
 | 2024.11 | **LLM STINGER: Jailbreaking LLMs using RL fine-tuned LLMs** | arXiv | [link](https://arxiv.org/pdf/2411.08862v1) | - |
