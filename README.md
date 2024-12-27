@@ -251,6 +251,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.12 | **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2412.17034) | - |
+| 2024.10 | **Safety-Aware Fine-Tuning of Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2410.10014) | - |
 | 2024.10 | **MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks** | AAAI'24 | [link](https://arxiv.org/pdf/2409.17699) | - |
 | 2024.08 | **BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger (BaThe)** |   arXiv    | [link](https://arxiv.org/pdf/2408.09093)  |                               -                              |
 | 2024.07 | **DART: Deep Adversarial Automated Red Teaming for LLM Safety** |   arXiv    | [link](https://arxiv.org/abs/2407.03876)  |                               -                              |
