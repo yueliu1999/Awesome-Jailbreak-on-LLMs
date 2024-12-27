@@ -390,6 +390,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.11 | **GuardBench: A Large-Scale Benchmark for Guardrail Models** | EMNLP'24 | [link](https://aclanthology.org/2024.emnlp-main.1022.pdf) | [link](https://github.com/AmenRa/guardbench) |
 | 2024.11 | **What Features in Prompts Jailbreak LLMs? Investigating the Mechanisms Behind Attacks** | arXiv | [Link](https://arxiv.org/pdf/2411.03343v1) | [link](https://github.com/NLie2/what_features_jailbreak_LLMs) |
 | 2024.11 | **Benchmarking LLM Guardrails in Handling Multilingual Toxicity** | arXiv | [link](https://arxiv.org/pdf/2410.22153v1) | [link](https://commoncrawl.github.io/cc-crawl-statistics/plots/languages.html) |
+| 2024.10 | **JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework** | arXiv | [link](https://arxiv.org/pdf/2410.12855) | [link](https://github.com/usail-hkust/Jailjudge) |
 | 2024.10 | **Do LLMs Have Political Correctness? Analyzing Ethical Biases and Jailbreak Vulnerabilities in AI Systems** | arXiv | [link](https://arxiv.org/pdf/2410.13334v1) | [link](https://anonymous.4open.science/r/PCJailbreak-F2B0/README.md) |
 | 2024.10 | **A Realistic Threat Model for Large Language Model Jailbreaks** | arXiv | [link](https://arxiv.org/pdf/2410.16222v1) | [link](https://github.com/valentyn1boreiko/llm-threat-model) |
 | 2024.10 | **ADVERSARIAL SUFFIXES MAY BE FEATURES TOO!** | arXiv | [link](https://arxiv.org/pdf/2410.00451) | [link](https://github.com/suffix-maybe-feature/adver-suffix-maybe-features) |
