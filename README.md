@@ -340,11 +340,15 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 
 
+
+
+
 #### Guard Model
 
 | Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
 | ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024.12 | **Lightweight Safety Classification Using Pruned Language Models (Sentence-BERT)** | arXiv'24  |          [link](https://arxiv.org/pdf/2412.13435)          |                              -                               |
+| 2024.11 | **GuardFormer: Guardrail Instruction Pretraining for Efficient SafeGuarding (GuardFormer)** | Meta  |          [link](https://openreview.net/pdf?id=vr31i9pzQk)          |                              -                               |
 | 2024.11 | **Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations (LLaMA Guard 3 Vision)** | Meta  |          [link](https://arxiv.org/pdf/2411.10414?)          |                              [link](https://github.com/meta-llama/llama-recipes/tree/main/recipes/responsible_ai/llama_guard)                                |
 | 2024.11 | **AEGIS2.0: A Diverse AI Safety Dataset and Risks Taxonomy for Alignment of LLM Guardrails (Aegis2.0)** | Nvidia, NeurIPS'24 Workshop  |          [link](https://openreview.net/pdf?id=0MvGCv35wi)          |                              -                               |
 | 2024.11 | **Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings (Sentence-BERT)** | arXiv'24  |          [link](https://arxiv.org/pdf/2411.14398?)          |                              -                               |
