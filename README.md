@@ -498,6 +498,13 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 If you find this repository helpful to your research, it is really appreciated to cite our papers. :sparkles:
 
 ```
+@article{liuyue_GuardReasoner,
+  title={GuardReasoner: Towards Reasoning-based LLM Safeguards},
+  author={Liu, Yue and Gao, Hongcheng and Zhai, Shengfang and Jun, Xia and Wu, Tianyi and Xue, Zhiwei and Chen, Yulin and Kawaguchi, Kenji and Zhang, Jiaheng and Hooi, Bryan},
+  journal={arXiv preprint arXiv:2501.18492},
+  year={2025}
+}
+
 @article{liuyue_FlipAttack,
   title={FlipAttack: Jailbreak LLMs via Flipping},
   author={Liu, Yue and He, Xiaoxin and Xiong, Miao and Fu, Jinlan and Deng, Shumin and Hooi, Bryan},
