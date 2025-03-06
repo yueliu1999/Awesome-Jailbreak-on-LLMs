@@ -39,6 +39,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.03 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   ICLR Workshop'25     | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2024.11 | **The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2411.11407) | [link](https://github.com/YancyKahn/DarkCite) |
 | 2024.11 | **Playing Language Game with LLMs Leads to Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2411.12762v1) | [link](https://anonymous.4open.science/r/encode_jailbreaking_anonymous-B4C4/README.md) |
 | 2024.11 | **GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs (GASP)** | arXiv | [link](https://arxiv.org/pdf/2411.14133v1) | [link](https://github.com/llm-gasp/gasp) |
@@ -48,7 +49,6 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2024.11 | **Plentiful Jailbreaks with String Compositions** | arXiv | [link](https://arxiv.org/pdf/2411.01084v1) | - |
 | 2024.11 | **Transferable Ensemble Black-box Jailbreak Attacks on Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2410.23558v1) |      [link](https://github.com/YQYANG2233/Large-Language-Model-Break-AI)    |
 | 2024.11 | **Stealthy Jailbreak Attacks on Large Language Models via Benign Data Mirroring** |   arXiv    | [link](https://arxiv.org/pdf/2410.21083) |      -    |
-| 2024.10 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   arXiv    | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2024.10 | **Endless Jailbreaks with Bijection** |   arXiv    | [link](https://arxiv.org/pdf/2410.01294v1) |       -    |
 | 2024.10 | **Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2410.04190v1) |        -      |
 | 2024.10 | **You Know What I'm Saying: Jailbreak Attack via Implicit Reference** |   arXiv    | [link](https://arxiv.org/pdf/2410.03857v2) |        [link](https://github.com/Lucas-TY/llm_Implicit_reference)      |
@@ -352,8 +352,8 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
 | ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.03 | **GuardReasoner: Towards Reasoning-based LLM Safeguards (GuardReasoner)** | ICLR Workshop'25  |          [link](https://arxiv.org/pdf/2501.18492)          |                              [link](https://github.com/yueliu1999/GuardReasoner/)                               |
 | 2025.02 | **Constitutional Classifiers: Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming** | arXiv'25  |          [link](https://arxiv.org/abs/2501.18837)          |                             -                               |
-| 2025.01 | **GuardReasoner: Towards Reasoning-based LLM Safeguards (GuardReasoner)** | arXiv'25  |          [link](https://arxiv.org/pdf/2501.18492)          |                              [link](https://github.com/yueliu1999/GuardReasoner/)                               |
 | 2024.12 | **Lightweight Safety Classification Using Pruned Language Models (Sentence-BERT)** | arXiv'24  |          [link](https://arxiv.org/pdf/2412.13435)          |                              -                               |
 | 2024.11 | **GuardFormer: Guardrail Instruction Pretraining for Efficient SafeGuarding (GuardFormer)** | Meta  |          [link](https://openreview.net/pdf?id=vr31i9pzQk)          |                              -                               |
 | 2024.11 | **Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations (LLaMA Guard 3 Vision)** | Meta  |          [link](https://arxiv.org/pdf/2411.10414?)          |                              [link](https://github.com/meta-llama/llama-recipes/tree/main/recipes/responsible_ai/llama_guard)                                |
