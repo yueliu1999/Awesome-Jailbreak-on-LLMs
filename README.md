@@ -40,6 +40,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025.03 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   ICLR Workshop'25     | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
+| 2025.02 | **Improved techniques for optimization-based jailbreaking on large language models** |   ICLR25     | [link](https://arxiv.org/pdf/2405.21018) |        [link](https://github.com/jiaxiaojunQAQ/I-GCG)      |
 | 2024.11 | **The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2411.11407) | [link](https://github.com/YancyKahn/DarkCite) |
 | 2024.11 | **Playing Language Game with LLMs Leads to Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2411.12762v1) | [link](https://anonymous.4open.science/r/encode_jailbreaking_anonymous-B4C4/README.md) |
 | 2024.11 | **GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs (GASP)** | arXiv | [link](https://arxiv.org/pdf/2411.14133v1) | [link](https://github.com/llm-gasp/gasp) |
