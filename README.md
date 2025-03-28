@@ -39,6 +39,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.03 | **Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy (JOOD)** |   CVPR'25     | [link](http://arxiv.org/pdf/2503.20823) |        [link](https://github.com/naver-ai/JOOD)      |
 | 2025.03 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   ICLR Workshop'25     | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2025.01 | **Understanding and Enhancing the Transferability of Jailbreaking Attacks** |   ICLR'25     | [link](https://arxiv.org/pdf/2502.03052) |        [link](https://github.com/tmllab/2025_ICLR_PiF)      |
 | 2024.11 | **The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2411.11407) | [link](https://github.com/YancyKahn/DarkCite) |
