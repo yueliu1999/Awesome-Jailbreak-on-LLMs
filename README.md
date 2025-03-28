@@ -9,6 +9,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ## Bookmarks
 
 - [Jailbreak Attack](#jailbreak-attack)
+  - [Attack on LRMs](#black-box-attack)
   - [Black-box Attack](#black-box-attack)
   - [White-box Attack](#white-box-attack)
   - [Multi-turn Attack](#multi-turn-attack)
@@ -32,6 +33,8 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 ### Jailbreak Attack
 
 
+
+#### Attack on LRMs
 
 
 
