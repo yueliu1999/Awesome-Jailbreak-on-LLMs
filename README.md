@@ -41,6 +41,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 | 2025.02 | **BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack** | arXiv   | [link](https://arxiv.org/abs/2502.12202) | [link](https://github.com/zihao-ai/BoT) |
 | 2025.02 | **H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models, Including OpenAI o1/o3, DeepSeek-R1, and Gemini 2.0 Flash Thinking** | arXiv   | [link](https://arxiv.org/abs/2502.12893) |[link](https://github.com/dukeceicenter/jailbreak-reasoning-openai-o1o3-deepseek-r1) |
 | 2025.02 | **A Mousetrap: Fooling Large Reasoning Models for Jailbreak with Chain of Iterative Chaos** | arXiv   | [link](https://arxiv.org/abs/2502.15806) |- |
+| 2025.03 | **Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning Models** | arXiv   | [link](https://arxiv.org/abs/2503.01781) |- |
 
 
 
