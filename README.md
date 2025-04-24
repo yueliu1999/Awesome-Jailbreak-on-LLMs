@@ -151,6 +151,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
 | ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 2025.03 | **Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints** | arXiv | [link](https://arxiv.org/abs/2503.01865) |    [link](https://github.com/thu-coai/TransferAttack) |
 | 2025.02 | **Improved techniques for optimization-based jailbreaking on large language models (I-GCG)** |   ICLR'25     | [link](https://arxiv.org/pdf/2405.21018) |        [link](https://github.com/jiaxiaojunQAQ/I-GCG)      |
 | 2024.11 | **AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts** |      arXiv       |           [link](https://arxiv.org/pdf/2410.22143v1)           |                          -                             |
 | 2024.11 | **DROJ: A Prompt-Driven Attack against Large Language Models** |      arXiv       |           [link](https://arxiv.org/pdf/2411.09125)           |                           [link](https://github.com/Leon-Leyang/LLM-Safeguard)                              |
