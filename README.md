@@ -192,10 +192,15 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time    | Title                                                        |   Venue   |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2025.04 | **X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents** |   arXiv    | [link](https://arxiv.org/pdf/2504.13203) |    [link](https://github.com/salman-lui/x-teaming)      |
+| 2025.04 | **Strategize Globally, Adapt Locally: A Multi-Turn Red Teaming Agent with Dual-Level Learning** |   arXiv    | [link](https://arxiv.org/pdf/2504.01278) |      -    |
+| 2025.03 | **Foot-In-The-Door: A Multi-turn Jailbreak for LLMs** |   arXiv    | [link](https://arxiv.org/pdf/2502.19820) |    [link](https://github.com/Jinxiaolong1129/Foot-in-the-door-Jailbreak)      |
+| 2025.03 | **Siege: Autonomous Multi-Turn Jailbreaking of Large Language Models with Tree Search** |   arXiv    | [link](https://arxiv.org/pdf/2503.10619) |      -    |
 | 2024.11 | **MRJ-Agent: An Effective Jailbreak Agent for Multi-Round Dialogue** |   arXiv    | [link](https://arxiv.org/pdf/2411.03814) |      -    |
 | 2024.10 | **Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language Models (JSP)** |   arXiv   | [link](https://arxiv.org/pdf/2410.11459v1) |    [link](https://github.com/YangHao97/JigSawPuzzles)      |
 | 2024.10 | **Multi-round jailbreak attack on large language** |   arXiv   | [link](https://arxiv.org/pdf/2410.11533v1) |     -      |
 | 2024.10 | **Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues** |   arXiv   | [link](https://arxiv.org/abs/2410.10700) |     [link](https://github.com/renqibing/ActorAttack)      |
+| 2024.10 | **Automated Red Teaming with GOAT: the Generative Offensive Agent Tester** |   arXiv   | [link](https://arxiv.org/pdf/2410.01606) |     -      |
 | 2024.09 | **LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet** |   arXiv   | [link](https://arxiv.org/pdf/2408.15221) |     [link](https://huggingface.co/datasets/ScaleAI/mhj)      |
 | 2024.09 | **RED QUEEN: Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking** |   arXiv   | [link](https://arxiv.org/pdf/2409.17458) |       [link](https://github.com/kriti-hippo/red_queen)       |
 | 2024.08 | **FRACTURED-SORRY-Bench: Framework for Revealing Attacks in Conversational Turns Undermining Refusal Efficacy and Defenses over SORRY-Bench (Automated Multi-shot Jailbreaks)** |   arXiv   | [link](https://arxiv.org/abs/2408.16163) |     -      |
