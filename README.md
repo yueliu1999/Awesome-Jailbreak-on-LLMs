@@ -513,6 +513,8 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 - [llm-sp](https://github.com/chawins/llm-sp)
 - [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)
 - [Awesome-LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
+- [Awesome-LRMs-Safety](https://github.com/WangCheng0116/Awesome-LRMs-Safety)
+- [Awesome-LALMs-Jailbreak](https://github.com/WangCheng0116/Awesome_LALMs_Jailbreak)
 
 
 
