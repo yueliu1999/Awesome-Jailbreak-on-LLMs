@@ -193,6 +193,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 | Time    | Title                                                        |   Venue   |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2025.04 | **Multi-Turn Jailbreaking Large Language Models via Attention Shifting** |   AAAI'25    | [link](https://ojs.aaai.org/index.php/AAAI/article/view/34553) |    -      |
 | 2025.04 | **X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents** |   arXiv    | [link](https://arxiv.org/pdf/2504.13203) |    [link](https://github.com/salman-lui/x-teaming)      |
 | 2025.04 | **Strategize Globally, Adapt Locally: A Multi-Turn Red Teaming Agent with Dual-Level Learning** |   arXiv    | [link](https://arxiv.org/pdf/2504.01278) |      -    |
 | 2025.03 | **Foot-In-The-Door: A Multi-turn Jailbreak for LLMs** |   arXiv    | [link](https://arxiv.org/pdf/2502.19820) |    [link](https://github.com/Jinxiaolong1129/Foot-in-the-door-Jailbreak)      |
