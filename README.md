@@ -537,6 +537,13 @@ If you find this repository helpful to your research, it is really appreciated t
   journal={arXiv preprint arXiv:2410.02832},
   year={2024}
 }
+
+@article{liuyue_GuardReasoner_VL,
+  title={GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning},
+  author={Liu, Yue and Zhai, Shengfang and Du, Mingzhe and Chen, Yulin and Cao, Tri and Gao, Hongcheng and Wang, Cheng and Li, Xinfeng and Wang, Kun and Fang, Junfeng and Zhang, Jiaheng and Hooi, Bryan},
+  journal={arXiv preprint arXiv:2505.11049},
+  year={2025}
+}
 ```
 
 
