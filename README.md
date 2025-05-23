@@ -5,7 +5,7 @@ Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting j
 
 ## Reference
 
-If you find this repository helpful to your research, it is really appreciated to cite our papers. :sparkles:
+If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
 
 ```
 @article{liuyue_GuardReasoner,
@@ -26,6 +26,13 @@ If you find this repository helpful to your research, it is really appreciated t
   title={GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning},
   author={Liu, Yue and Zhai, Shengfang and Du, Mingzhe and Chen, Yulin and Cao, Tri and Gao, Hongcheng and Wang, Cheng and Li, Xinfeng and Wang, Kun and Fang, Junfeng and Zhang, Jiaheng and Hooi, Bryan},
   journal={arXiv preprint arXiv:2505.11049},
+  year={2025}
+}
+
+@article{wang2025safety,
+  title={Safety in Large Reasoning Models: A Survey},
+  author={Wang, Cheng and Liu, Yue and Li, Baolong and Zhang, Duzhen and Li, Zhongzhi and Fang, Junfeng},
+  journal={arXiv preprint arXiv:2504.17704},
   year={2025}
 }
 ```
