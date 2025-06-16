@@ -361,6 +361,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.05 | **Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2502.12970?) | [link](https://github.com/chuhac/Reasoning-to-Defend) |
 | 2024.11 | **Rapid Response: Mitigating LLM Jailbreaks with a Few Examples** | arXiv | [link](https://arxiv.org/pdf/2411.07494v1) | [link](https://github.com/rapidresponsebench/rapidresponsebench) |
 | 2024.10 | **RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process (RePD)** | arXiv | [link](https://arxiv.org/pdf/2410.08660v1) |  - |
 | 2024.10 | **Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models (G4D)** | arXiv | [link](https://arxiv.org/pdf/2410.17922v1) |  [link](https://github.com/IDEA-XL/G4D) |
