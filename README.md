@@ -457,6 +457,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025.06 | **Activation Approximations Can Incur Safety Vulnerabilities Even in Aligned LLMs: Comprehensive Analysis and Defense** | USENIX Security'25 | [link](https://www.arxiv.org/pdf/2502.00840) |  [link](https://github.com/Kevin-Zh-CS/QuadA)  |
+| 2025.05 | **PandaGuard: Systematic Evaluation of LLM Safety against Jailbreaking Attacks** | arXiv | [link](https://arxiv.org/pdf/2505.13862) |  [link](https://github.com/Beijing-AISI/panda-guard)  |
 | 2025.05 | **Assessing Safety Risks and Quantization-aware Safety Patching for Quantized Large Language Models** | ICML'25 | [link](https://icml.cc/virtual/2025/poster/44278) |  [link](https://github.com/Thecommonirin/Qresafe)  |
 | 2025.02 | **GuidedBench: Equipping Jailbreak Evaluation with Guidelines** | arXiv | [link](https://arxiv.org/pdf/2502.16903) |  [link](https://github.com/SproutNan/AI-Safety_Benchmark)  |
 | 2024.12 | **Agent-SafetyBench: Evaluating the Safety of LLM Agents** | arXiv | [link](https://arxiv.org/pdf/2412.14470) |  [link](https://github.com/thu-coai/Agent-SafetyBench)  |
