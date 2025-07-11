@@ -83,6 +83,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.05 | **Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection** |   ICML'25     | [link](https://arxiv.org/pdf/2411.01077) |        [link](https://github.com/zhipeng-wei/EmojiAttack)      |
 | 2025.05 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   ICML'25     | [link](https://arxiv.org/pdf/2410.02832) |        [link](https://github.com/yueliu1999/FlipAttack)      |
 | 2025.03 | **Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy (JOOD)** |   CVPR'25     | [link](http://arxiv.org/pdf/2503.20823) |        [link](https://github.com/naver-ai/JOOD)      |
 | 2025.02 | **StructTransform: A Scalable Attack Surface for Safety-Aligned Large Language Models** |   arXiv     | [link](https://arxiv.org/abs/2502.11853) | [link](https://github.com/StructTransform/Benchmark) |
