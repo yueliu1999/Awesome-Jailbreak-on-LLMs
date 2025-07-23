@@ -313,6 +313,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### Learning-based Defense
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.04 | **JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model** | COLM'25 | [link](https://arxiv.org/pdf/2504.03770) | [link](https://github.com/ShenzheZhu/JailDAM) |
 | 2024.12 | **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2412.17034) | - |
 | 2024.10 | **Safety-Aware Fine-Tuning of Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2410.10014) | - |
 | 2024.10 | **MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks** | AAAI'24 | [link](https://arxiv.org/pdf/2409.17699) | - |
