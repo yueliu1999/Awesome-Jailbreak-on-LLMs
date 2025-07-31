@@ -107,6 +107,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2024.09 | **AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs** | arXiv | [link](https://arxiv.org/pdf/2409.07503) | [link](https://github.com/Yummy416/AdaPPA) |
 | 2024.09 | **Effective and Evasive Fuzz Testing-Driven Jailbreaking Attacks against LLMs** | arXiv | [link](https://arxiv.org/pdf/2409.14866) | - |
 | 2024.09 | **Jailbreaking Large Language Models with Symbolic Mathematics** |   arXiv    | [link](https://arxiv.org/pdf/2409.11445v1)|        -       |
+| 2024.08 | **Play Guessing Game with LLM: Indirect Jailbreak Attack with Implicit Clues** |   ACL Findings'24    | [link](https://aclanthology.org/2024.findings-acl.304) |        [link](https://github.com/czycurefun/IJBR)      |
 | 2024.08 | **Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2408.14866)|        -       |
 | 2024.08 | **Hide Your Malicious Goal Into Benign Narratives: Jailbreak Large Language Models through Neural Carrier Articles** |   arXiv    | [link](https://arxiv.org/pdf/2408.11182) |                             -                                |
 | 2024.08 | **h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment (h4rm3l)** |    arXiv   | [link](https://arxiv.org/pdf/2408.04811) | [link](https://mdoumbouya.github.io/h4rm3l/) |
