@@ -187,6 +187,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
 | ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 2025.08 | **Don’t Say No: Jailbreaking LLM by Suppressing Refusal (DSN)** | ACL'25 | [link](https://arxiv.org/abs/2404.16369) |    [link](https://github.com/DSN-2024/DSN) |
 | 2025.03 | **Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints** | arXiv | [link](https://arxiv.org/abs/2503.01865) |    [link](https://github.com/thu-coai/TransferAttack) |
 | 2025.02 | **Improved techniques for optimization-based jailbreaking on large language models (I-GCG)** |   ICLR'25     | [link](https://arxiv.org/pdf/2405.21018) |        [link](https://github.com/jiaxiaojunQAQ/I-GCG)      |
 | 2024.12 | **Efficient Adversarial Training in LLMs with Continuous Attacks** | NeurIPS'24 | [link](https://arxiv.org/abs/2405.15589) | [link](https://github.com/sophie-xhonneux/Continuous-AdvTrain) |
@@ -543,6 +544,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.08 | **Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures** | arXiv | [link](https://arxiv.org/abs/2506.07402) | [link](https://jailflip.github.io/) |
 | 2024.11 | **Attacking Vision-Language Computer Agents via Pop-ups** | arXiv | [link](https://arxiv.org/pdf/2411.02391) | [link](https://github.com/SALT-NLP/PopupAttack) |
 | 2024.10 | **Jailbreaking LLM-Controlled Robots (ROBOPAIR)** |   arXiv    | [link](https://arxiv.org/pdf/2410.13691v1) |        [link](https://robopair.org/)      |
 | 2024.10 | **SMILES-Prompting: A Novel Approach to LLM Jailbreak Attacks in Chemical Synthesis** |   arXiv    | [link](https://arxiv.org/pdf/2410.15641v1) |        [link](https://github.com/IDEA-XL/ChemSafety)      |
