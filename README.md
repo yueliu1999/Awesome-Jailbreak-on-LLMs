@@ -70,7 +70,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
 | 2025.08 | **Jinx: Unlimited LLMs for Probing Alignment Failures** | arXiv  | [link](https://arxiv.org/abs/2508.08243) | [models](https://huggingface.co/Jinx-org) |
-| 2025.06 | **ExtendAttack: Attacking Servers of LRMs via Extending Reasoning** | arXiv  | [link](https://arxiv.org/abs/2506.13737) | [link](https://github.com/zzh-thu-22/ExtendAttack) |
+| 2025.06 | **ExtendAttack: Attacking Servers of LRMs via Extending Reasoning** | AAAI'26  | [link](https://arxiv.org/abs/2506.13737) | [link](https://github.com/zzh-thu-22/ExtendAttack) |
 | 2025.03 | **Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning Models** | arXiv   | [link](https://arxiv.org/abs/2503.01781) |- |
 | 2025.02 | **OverThink: Slowdown Attacks on Reasoning LLMs** | arXiv   | [link](https://arxiv.org/abs/2502.02542#:~:text=We%20increase%20overhead%20for%20applications%20that%20rely%20on,the%20user%20query%20while%20providing%20contextually%20correct%20answers.) | [link](https://github.com/akumar2709/OVERTHINK_public) |
 | 2025.02 | **BoT: Breaking Long Thought Processes of o1-like Large Language Models through Backdoor Attack** | arXiv   | [link](https://arxiv.org/abs/2502.12202) | [link](https://github.com/zihao-ai/BoT) |
