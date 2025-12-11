@@ -455,6 +455,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2022.02 | **A New Generation of Perspective API: Efficient Multilingual Character-level Transformers (Perspective API)** |   KDD Google    |           [link](https://arxiv.org/pdf/2202.11176)           |             [link](https://perspectiveapi.com/)              |
 | -       | **Azure AI Content Safety**                                  | Microsoft Azure |                              -                               | [link](https://azure.microsoft.com/en-us/products/ai-services/ai-content-safety/) |
 | -       | **Detoxify**                                                 |   unitary.ai    |                              -                               |        [link](https://github.com/unitaryai/detoxify)         |
+| -       | **promptfoo** - LLM red teaming framework with adaptive multi-turn attacks (PAIR, tree-of-attacks, crescendo) |   promptfoo    |                              -                               |        [link](https://github.com/promptfoo/promptfoo)         |
 
 
 
