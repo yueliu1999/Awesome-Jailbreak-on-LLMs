@@ -370,6 +370,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.12 | **Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs** | NeurIPS-W | [link](https://openreview.net/pdf?id=OkNfb8SmLh) | [BlogPost Link](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17) |
 | 2025.05 | **Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2502.12970?) | [link](https://github.com/chuhac/Reasoning-to-Defend) |
 | 2024.11 | **Rapid Response: Mitigating LLM Jailbreaks with a Few Examples** | arXiv | [link](https://arxiv.org/pdf/2411.07494v1) | [link](https://github.com/rapidresponsebench/rapidresponsebench) |
 | 2024.10 | **RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process (RePD)** | arXiv | [link](https://arxiv.org/pdf/2410.08660v1) |  - |
@@ -467,6 +468,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.12 | **Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs** | NeurIPS-W | [link](https://openreview.net/pdf?id=OkNfb8SmLh) | [BlogPost Link](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17) |
 | 2025.08 | **JADES: A Universal Framework for Jailbreak Assessment via Decompositional Scoring** | arXiv | [link](https://arxiv.org/pdf/2508.20848) |  [link](https://trustairlab.github.io/jades.github.io/)  |
 | 2025.06 | **Activation Approximations Can Incur Safety Vulnerabilities Even in Aligned LLMs: Comprehensive Analysis and Defense** | USENIX Security'25 | [link](https://www.arxiv.org/pdf/2502.00840) |  [link](https://github.com/Kevin-Zh-CS/QuadA)  |
 | 2025.05 | **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | EMNLP'25 | [link](https://arxiv.org/pdf/2505.15389) |  [link](https://github.com/oneonlee/Meme-Safety-Bench)  |
@@ -550,6 +552,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.12 | **Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs** | NeurIPS-W | [link](https://openreview.net/pdf?id=OkNfb8SmLh) | [BlogPost Link](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17) |
 | 2025.08 | **Beyond Jailbreaks: Revealing Stealthier and Broader LLM Security Risks Stemming from Alignment Failures** | arXiv | [link](https://arxiv.org/abs/2506.07402) | [link](https://jailflip.github.io/) |
 | 2024.11 | **Attacking Vision-Language Computer Agents via Pop-ups** | arXiv | [link](https://arxiv.org/pdf/2411.02391) | [link](https://github.com/SALT-NLP/PopupAttack) |
 | 2024.10 | **Jailbreaking LLM-Controlled Robots (ROBOPAIR)** |   arXiv    | [link](https://arxiv.org/pdf/2410.13691v1) |        [link](https://robopair.org/)      |
