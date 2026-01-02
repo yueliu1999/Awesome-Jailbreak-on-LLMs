@@ -320,6 +320,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### Learning-based Defense
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2025.12 | **Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring** | arXiv'25 | [link](https://arxiv.org/abs/2512.12069) | [link](https://github.com/sarendis56/Jailbreak_Detection_RCS) |
 | 2025.04 | **JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model** | COLM'25 | [link](https://arxiv.org/pdf/2504.03770) | [link](https://github.com/ShenzheZhu/JailDAM) |
 | 2024.12 | **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2412.17034) | - |
 | 2024.10 | **Safety-Aware Fine-Tuning of Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2410.10014) | - |
@@ -372,6 +373,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025.12 | **Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs** | NeurIPS-W | [link](https://openreview.net/pdf?id=OkNfb8SmLh) | [BlogPost Link](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17) |
+| 2025.09 | **LLM Jailbreak Detection for (Almost) Free!** | arXiv | [link](http://arxiv.org/abs/2509.14558) | [link](https://github.com/GuoruiC/FJD) |
 | 2025.05 | **Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2502.12970?) | [link](https://github.com/chuhac/Reasoning-to-Defend) |
 | 2024.11 | **Rapid Response: Mitigating LLM Jailbreaks with a Few Examples** | arXiv | [link](https://arxiv.org/pdf/2411.07494v1) | [link](https://github.com/rapidresponsebench/rapidresponsebench) |
 | 2024.10 | **RePD: Defending Jailbreak Attack through a Retrieval-based Prompt Decomposition Process (RePD)** | arXiv | [link](https://arxiv.org/pdf/2410.08660v1) |  - |
@@ -419,7 +421,8 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
 | ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025.10 | **Think Twice, Generate Once: Safeguarding by Progressive Self-Reflection (PSR)** | EMNLP'25  |          [link](https://arxiv.org/abs/2510.01270)          |                              [link](https://github.com/VietHoang1512/PSR)                  | 
+| 2025.12 | **OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning** | arXiv'25 | [link](https://arxiv.org/abs/2512.02306) | - |
+| 2025.10 | **Think Twice, Generate Once: Safeguarding by Progressive Self-Reflection (PSR)** | EMNLP'25  |          [link](https://arxiv.org/abs/2510.01270)          |                              [link](https://github.com/VietHoang1512/PSR)                  |
 | 2025.05 | **GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning (GuardReasoner-VL)** | NeurIPS'25  |          [link](https://arxiv.org/abs/2505.11049)          |                              [link](https://github.com/yueliu1999/GuardReasoner-VL/)                               |
 | 2025.04 | **X-Guard: Multilingual Guard Agent for Content Moderation (X-Guard)** | arXiv'25  |          [link](https://arxiv.org/pdf/2504.08848)          |                              [link](https://github.com/UNHSAILLab/X-Guard)                               |
 | 2025.02 | **ThinkGuard: Deliberative Slow Thinking Leads to Cautious Guardrails (ThinkGuard)** | arXiv'25  |          [link](https://arxiv.org/abs/2502.13458)          |                             [link](https://github.com/luka-group/ThinkGuard)                              |
