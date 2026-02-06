@@ -421,7 +421,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
 | ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2025.10 | **GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video** | arXiv'26  |          [link](https://arxiv.org/abs/2602.03328)          |                              [link](https://github.com/zzh-thu-22/GuardReasoner-Omni)   
+| 2026.02 | **GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video** | arXiv'26  |          [link](https://arxiv.org/abs/2602.03328)          |                              [link](https://github.com/zzh-thu-22/GuardReasoner-Omni)   
 | 2025.12 | **OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning** | arXiv'25 | [link](https://arxiv.org/abs/2512.02306) | - |
 | 2025.10 | **Think Twice, Generate Once: Safeguarding by Progressive Self-Reflection (PSR)** | EMNLP'25  |          [link](https://arxiv.org/abs/2510.01270)          |                              [link](https://github.com/VietHoang1512/PSR)                  |
 | 2025.05 | **GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning (GuardReasoner-VL)** | NeurIPS'25  |          [link](https://arxiv.org/abs/2505.11049)          |                              [link](https://github.com/yueliu1999/GuardReasoner-VL/)                               |
