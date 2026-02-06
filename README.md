@@ -29,6 +29,16 @@ If you find this repository helpful for your research, we would greatly apprecia
   year={2025}
 }
 
+@misc{zhu2026guardreasoneromnireasoningbasedmultimodalguardrail,
+  title={GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video}, 
+  author={Zhenhao Zhu and Yue Liu and Yanpei Guo and Wenjie Qu and Cancan Chen and Yufei He and Yibo Li and Yulin Chen and Tianyi Wu and Huiying Xu and Xinzhong Zhu and Jiaheng Zhang},
+  year={2026},
+  eprint={2602.03328},
+  archivePrefix={arXiv},
+  primaryClass={cs.CR},
+  url={https://arxiv.org/abs/2602.03328}, 
+}
+
 @article{wang2025safety,
   title={Safety in Large Reasoning Models: A Survey},
   author={Wang, Cheng and Liu, Yue and Li, Baolong and Zhang, Duzhen and Li, Zhongzhi and Fang, Junfeng},
