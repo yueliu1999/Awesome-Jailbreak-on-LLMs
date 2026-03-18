@@ -558,7 +558,8 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2023.04 | **Safety Assessment of Chinese Large Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2304.10436)  |                              [link](https://github.com/thu-coai/Safety-Prompts)                              |
 | 2023.02 | **Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks** |   arXiv    | [link](https://arxiv.org/pdf/2302.05733)  |                              -                               |
 | 2022.11 | **Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned** |   arXiv    | [link](https://arxiv.org/pdf/2209.07858)  |                              -                               |
-| 2022.02 | **Red Teaming Language Models with Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2202.03286)  |                              -                               |
+| 2022.02 | **Red Teaming Language Models with Language Models** |   arXiv    | [link](https://arxiv.org/pdf/2202.03286)  | 
+| 2026.03 | **Evaluation and Alignment, The Seminal Papers** | Manning | [link](https://www.manning.com/books/evaluation-and-alignment-the-seminal-papers) | -  |                               |
 
 ### Application
 
