@@ -333,6 +333,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2025.12 | **Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring** | arXiv'25 | [link](https://arxiv.org/abs/2512.12069) | [link](https://github.com/sarendis56/Jailbreak_Detection_RCS) |
+| 2025.07 | **Reasoning as an Adaptive Defense for Safety** | NeurIPS'25 | [link](https://arxiv.org/abs/2507.00971) | [link](https://training-adaptive-reasoners-safety.github.io) |
 | 2025.04 | **JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model** | COLM'25 | [link](https://arxiv.org/pdf/2504.03770) | [link](https://github.com/ShenzheZhu/JailDAM) |
 | 2024.12 | **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2412.17034) | - |
 | 2024.10 | **Safety-Aware Fine-Tuning of Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2410.10014) | - |
