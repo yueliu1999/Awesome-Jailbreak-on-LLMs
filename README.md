@@ -592,6 +592,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 - [Awesome-LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety)
 - [Awesome-LRMs-Safety](https://github.com/WangCheng0116/Awesome-LRMs-Safety)
 - [Awesome-LALMs-Jailbreak](https://github.com/WangCheng0116/Awesome_LALMs_Jailbreak)
+- [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety)
 
 
 
