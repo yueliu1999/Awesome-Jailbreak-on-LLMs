@@ -486,6 +486,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.05 | **guard-eval-harness: CLI-first harness for benchmarking guardrail, moderation, and safety classification models** | Toolkit | - | [link](https://github.com/Virtue-Research/guard-eval-harness) |
 | 2026.02 | **AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems** | arXiv | [link](https://arxiv.org/abs/2602.11510) |  [link](https://github.com/Privatris/AgentLeak)  |
 | 2026.02 | **babel-bench: Multilingual Classical Language Safety Benchmark for LLMs (babel-bench)** | ICLR'26 | [link](https://arxiv.org/abs/2602.22983) |  [link](https://github.com/MARUCIE/babel-bench)  |
 | 2025.12 | **Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs** | NeurIPS-W | [link](https://openreview.net/pdf?id=OkNfb8SmLh) | [BlogPost Link](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17) |
@@ -620,7 +621,6 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 
