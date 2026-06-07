@@ -76,7 +76,10 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### Attack on LRMs
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2026.05 | **Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs** | arXiv  | [link](https://arxiv.org/abs/2605.24497) | - |
 | 2025.11 | **BadThink: Triggered Overthinking Attacks on Chain-of-Thought Reasoning in Large Language Models** | AAAI'26  | [link](https://arxiv.org/abs/2511.10714) | - |
+| 2025.10 | **When Models Outthink Their Safety: Unveiling and Mitigating Self-Jailbreak in Large Reasoning Models** | arXiv  | [link](https://arxiv.org/abs/2510.21285) | - |
+| 2025.10 | **AutoDAN-Reasoning: Enhancing Strategies Exploration based Jailbreak Attacks with Test-Time Scaling** | arXiv  | [link](https://arxiv.org/abs/2510.05379) | [link](https://github.com/SaFoLab-WISC/AutoDAN-Reasoning) |
 | 2025.08 | **Jinx: Unlimited LLMs for Probing Alignment Failures** | arXiv  | [link](https://arxiv.org/abs/2508.08243) | [models](https://huggingface.co/Jinx-org) |
 | 2025.07 | **BadReasoner: Planting Tunable Overthinking Backdoors into Large Reasoning Models for Fun or Profit** | arXiv  | [link](https://arxiv.org/abs/2507.18305) | [link](https://github.com/FZaKK/BadReasoner) |
 | 2025.06 | **ExtendAttack: Attacking Servers of LRMs via Extending Reasoning** | AAAI'26  | [link](https://arxiv.org/abs/2506.13737) | [link](https://github.com/zzh-thu-22/ExtendAttack) |
@@ -94,12 +97,21 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time    | Title                                                       |  Venue  |                                                           Paper                                                            |                                          Code                                          |
 |---------| ----------------------------------------------------------- | :-----: |:--------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
+| 2026.05 | **LASH: Adaptive Semantic Hybridization for Black-Box Jailbreaking of Large Language Models** | arXiv | [link](https://arxiv.org/abs/2605.21362) | - |
 | 2026.03 | **Internal Safety Collapse in Frontier Large Language Models (ISC-Bench)** | arXiv | [link](https://arxiv.org/abs/2603.23509) | [link](https://github.com/wuyoscar/ISC-Bench) |
+| 2026.03 | **Not All Tokens Are Created Equal: Query-Efficient Jailbreak Fuzzing for LLMs** | arXiv | [link](https://arxiv.org/abs/2603.23269) | - |
+| 2026.01 | **Jailbreaking LLMs Without Gradients or Priors: Effective and Transferable Attacks** | arXiv | [link](https://arxiv.org/abs/2601.03420) | - |
+| 2025.12 | **Safe2Harm: Semantic Isomorphism Attacks for Jailbreaking Large Language Models** | arXiv | [link](https://arxiv.org/abs/2512.13703) | - |
+| 2025.11 | **"To Survive, I Must Defect": Jailbreaking LLMs via the Game-Theory Scenarios** | arXiv | [link](https://arxiv.org/abs/2511.16278) | - |
+| 2025.10 | **Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency** | NeurIPS'25 | [link](https://arxiv.org/abs/2510.21189) | - |
+| 2025.10 | **Jailbreak Mimicry: Automated Discovery of Narrative-Based Jailbreaks for Large Language Models** | arXiv | [link](https://arxiv.org/abs/2510.22085) | - |
+| 2025.10 | **MetaBreak: Jailbreaking Online LLM Services via Special Token Manipulation** | arXiv | [link](https://arxiv.org/abs/2510.10271) | - |
 | 2025.10 | **BreakFun: Jailbreaking LLMs via Schema Exploitation** | arXiv | [link](https://arxiv.org/abs/2510.17904) | - |
 | 2025.07 | **Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models** | arXiv | [link](https://arxiv.org/abs/2507.05248) | [link](https://github.com/Dtc7w3PQ/Response-Attack) |
 | 2025.05 | **Emoji Attack: Enhancing Jailbreak Attacks Against Judge LLM Detection** |   ICML'25     |                                          [link](https://arxiv.org/pdf/2411.01077)                                          |                   [link](https://github.com/zhipeng-wei/EmojiAttack)                   |
 | 2025.05 | **FlipAttack: Jailbreak LLMs via Flipping (FlipAttack)** |   ICML'25     |                                          [link](https://arxiv.org/pdf/2410.02832)                                          |                    [link](https://github.com/yueliu1999/FlipAttack)                    |
 | 2025.03 | **Playing the Fool: Jailbreaking LLMs and Multimodal LLMs with Out-of-Distribution Strategy (JOOD)** |   CVPR'25     |                                          [link](http://arxiv.org/pdf/2503.20823)                                           |                        [link](https://github.com/naver-ai/JOOD)                        |
+| 2025.03 | **JBFuzz: Jailbreaking LLMs Efficiently and Effectively Using Fuzzing** |   arXiv     |                                          [link](https://arxiv.org/abs/2503.08990)                                           |                        -                        |
 | 2025.02 | **StructTransform: A Scalable Attack Surface for Safety-Aligned Large Language Models** |   arXiv     |                                          [link](https://arxiv.org/abs/2502.11853)                                          |                  [link](https://github.com/StructTransform/Benchmark)                  |
 | 2025.01 | **Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models** | arXiv | [link](https://arxiv.org/abs/2501.18280) | - |
 | 2025.01 | **Understanding and Enhancing the Transferability of Jailbreaking Attacks** |   ICLR'25     |                                          [link](https://arxiv.org/pdf/2502.03052)                                          |                    [link](https://github.com/tmllab/2025_ICLR_PiF)                     |
@@ -202,6 +214,13 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Year    | Title                                                        |      Venue       |                            Paper                             |                            Code                            |
 | ------- | ------------------------------------------------------------ | :--------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
+| 2026.02 | **Beyond Suffixes: Token Position in GCG Adversarial Attacks on Large Language Models** | arXiv | [link](https://arxiv.org/abs/2602.03265) |    - |
+| 2026.01 | **TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning** | arXiv | [link](https://arxiv.org/abs/2601.12460) |    - |
+| 2025.11 | **TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization** | arXiv | [link](https://arxiv.org/abs/2511.18581) |    - |
+| 2025.10 | **Imperceptible Jailbreaking against Large Language Models** | arXiv | [link](https://arxiv.org/abs/2510.05025) |    - |
+| 2025.10 | **Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs** | arXiv | [link](https://arxiv.org/abs/2510.02833) |    - |
+| 2025.10 | **Dynamic Target Attack** | arXiv | [link](https://arxiv.org/abs/2510.02422) |    - |
+| 2025.10 | **Untargeted Jailbreak Attack** | arXiv | [link](https://arxiv.org/abs/2510.02999) |    - |
 | 2025.08 | **Don’t Say No: Jailbreaking LLM by Suppressing Refusal (DSN)** | ACL'25 | [link](https://arxiv.org/abs/2404.16369) |    [link](https://github.com/DSN-2024/DSN) |
 | 2025.03 | **Guiding not Forcing: Enhancing the Transferability of Jailbreaking Attacks on LLMs via Removing Superfluous Constraints** | arXiv | [link](https://arxiv.org/abs/2503.01865) |    [link](https://github.com/thu-coai/TransferAttack) |
 | 2025.02 | **Improved techniques for optimization-based jailbreaking on large language models (I-GCG)** |   ICLR'25     | [link](https://arxiv.org/pdf/2405.21018) |        [link](https://github.com/jiaxiaojunQAQ/I-GCG)      |
@@ -247,6 +266,12 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time    | Title                                                        |   Venue   |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :-------: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2026.02 | **SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks** |   arXiv    | [link](https://arxiv.org/abs/2602.06854) |    [link](https://github.com/fmmarkmq/SEMA)      |
+| 2026.01 | **Knowledge-Driven Multi-Turn Jailbreaking on Large Language Models** |   arXiv    | [link](https://arxiv.org/abs/2601.05445) |    -      |
+| 2025.12 | **TROJail: Trajectory-Level Optimization for Multi-Turn Large Language Model Jailbreaks with Process Rewards** |   ACL'26    | [link](https://arxiv.org/abs/2512.07761) |    [link](https://github.com/xxiqiao/TROJail)      |
+| 2025.10 | **HarmNet: A Framework for Adaptive Multi-Turn Jailbreak Attacks on Large Language Models** |   arXiv    | [link](https://arxiv.org/abs/2510.18728) |    -      |
+| 2025.10 | **Pattern Enhanced Multi-Turn Jailbreaking: Exploiting Structural Vulnerabilities in Large Language Models** |   arXiv    | [link](https://arxiv.org/abs/2510.08859) |    [link](https://github.com/Ragib-Amin-Nihal/PE-CoA)      |
+| 2025.10 | **NEXUS: Network Exploration for eXploiting Unsafe Sequences in Multi-Turn LLM Jailbreaks** |   arXiv    | [link](https://arxiv.org/abs/2510.03417) |    -      |
 | 2025.04 | **Multi-Turn Jailbreaking Large Language Models via Attention Shifting** |   AAAI'25    | [link](https://ojs.aaai.org/index.php/AAAI/article/view/34553) |    -      |
 | 2025.04 | **X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents** |   arXiv    | [link](https://arxiv.org/pdf/2504.13203) |    [link](https://github.com/salman-lui/x-teaming)      |
 | 2025.04 | **Strategize Globally, Adapt Locally: A Multi-Turn Red Teaming Agent with Dual-Level Learning** |   arXiv    | [link](https://arxiv.org/pdf/2504.01278) |      -    |
@@ -289,6 +314,18 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.03 | **Reasoning-Oriented Programming: Chaining Semantic Gadgets to Jailbreak Large Vision Language Models** | arXiv | [link](https://arxiv.org/abs/2603.09246) | - |
+| 2026.02 | **Toward Universal and Transferable Jailbreak Attacks on Vision-Language Models (UltraBreak)** | arXiv | [link](https://arxiv.org/abs/2602.01025) | [link](https://github.com/kaiyuanCui/UltraBreak) |
+| 2026.01 | **Jailbreaks on Vision Language Model via Multimodal Reasoning** | arXiv | [link](https://arxiv.org/abs/2601.22398) | - |
+| 2026.01 | **Beyond Visual Safety: Jailbreaking Multimodal Large Language Models for Harmful Image Generation via Semantic-Agnostic Inputs** | arXiv | [link](https://arxiv.org/abs/2601.15698) | - |
+| 2026.01 | **Multi-turn Jailbreaking Attack in Multi-Modal Large Language Models** | arXiv | [link](https://arxiv.org/abs/2601.05339) | - |
+| 2025.12 | **Metaphor-based Jailbreaking Attacks on Text-to-Image Models** | arXiv | [link](https://arxiv.org/abs/2512.10766) | - |
+| 2025.11 | **Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models** | AAAI'26 | [link](https://arxiv.org/abs/2511.16110) | - |
+| 2025.10 | **Beyond Text: Multimodal Jailbreaking of Vision-Language and Audio Models through Perceptually Simple Transformations** | arXiv | [link](https://arxiv.org/abs/2510.20223) | - |
+| 2025.10 | **VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models** | arXiv | [link](https://arxiv.org/abs/2510.17759) | - |
+| 2025.10 | **Multimodal Safety Is Asymmetric: Cross-Modal Exploits Unlock Black-Box MLLMs Jailbreaks** | arXiv | [link](https://arxiv.org/abs/2510.17277) | - |
+| 2025.10 | **Sequential Comics for Jailbreaking Multimodal Large Language Models via Structured Visual Storytelling** | arXiv | [link](https://arxiv.org/abs/2510.15068) | - |
+| 2025.10 | **VisualDAN: Exposing Vulnerabilities in VLMs with Visual-Driven DAN Commands** | arXiv | [link](https://arxiv.org/abs/2510.09699) | - |
 | 2024.11 | **Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey** | arXiv | [link](https://arxiv.org/pdf/2411.09259) | [link](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak) |
 | 2024.10 | **Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step** | arXiv | [link](https://arxiv.org/pdf/2410.03869) | - |
 | 2024.10 | **ColJailBreak: Collaborative Generation and Editing for Jailbreaking Text-to-Image Deep Generation** | NeurIPS'24 | [Link](https://nips.cc/virtual/2024/poster/94287) | - |
@@ -333,7 +370,11 @@ If you find this repository helpful for your research, we would greatly apprecia
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2026.05 | **EmbedGuard: Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems** | IJCESEN'26 | [link](https://doi.org/10.22399/ijcesen.4869) | [link](https://github.com/neerazz/embedguard) |
+| 2026.01 | **Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing** | arXiv'26 | [link](https://arxiv.org/abs/2601.10543) | [link](https://github.com/zyz13590/SafeProbing) |
 | 2025.12 | **Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring** | arXiv'25 | [link](https://arxiv.org/abs/2512.12069) | [link](https://github.com/sarendis56/Jailbreak_Detection_RCS) |
+| 2025.11 | **Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security** | NDSS'26 | [link](https://arxiv.org/abs/2511.16229) | [link](https://github.com/Amadeuszhao/QMLLM) |
+| 2025.10 | **MetaDefense: Defending Finetuning-based Jailbreak Attack Before and During Generation** | NeurIPS'25 | [link](https://arxiv.org/abs/2510.07835) | - |
+| 2025.09 | **Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check** | arXiv'25 | [link](https://arxiv.org/abs/2509.11629) | - |
 | 2025.07 | **Reasoning as an Adaptive Defense for Safety** | NeurIPS'25 | [link](https://arxiv.org/abs/2507.00971) | [link](https://training-adaptive-reasoners-safety.github.io) |
 | 2025.04 | **JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model** | COLM'25 | [link](https://arxiv.org/pdf/2504.03770) | [link](https://github.com/ShenzheZhu/JailDAM) |
 | 2024.12 | **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models** | arXiv'24 | [link](https://arxiv.org/pdf/2412.17034) | - |
@@ -386,7 +427,14 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.06 | **THRD: A Training-Free Multi-Turn Defense Framework for Jailbreak Attacks on Large Language Models** | arXiv | [link](https://arxiv.org/abs/2606.01738) | - |
+| 2026.02 | **Recursive Language Models for Jailbreak Detection: A Procedural Defense for Tool-Augmented Agents** | arXiv | [link](https://arxiv.org/abs/2602.16520) | - |
+| 2025.12 | **Immunity Memory-based Jailbreak Detection: Multi-Agent Adaptive Guard for Large Language Models** | arXiv | [link](https://arxiv.org/abs/2512.03356) | - |
+| 2025.12 | **Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline** | arXiv | [link](https://arxiv.org/abs/2512.19011) | - |
 | 2025.12 | **Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs** | NeurIPS-W | [link](https://openreview.net/pdf?id=OkNfb8SmLh) | [BlogPost Link](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17) |
+| 2025.10 | **Sentra-Guard: A Multilingual Human-AI Framework for Real-Time Defense Against Adversarial LLM Jailbreaks** | arXiv | [link](https://arxiv.org/abs/2510.22628) | - |
+| 2025.10 | **Active Honeypot Guardrail System: Probing and Confirming Multi-Turn LLM Jailbreaks** | arXiv | [link](https://arxiv.org/abs/2510.15017) | - |
+| 2025.10 | **Proactive Defense against LLM Jailbreak** | arXiv | [link](https://arxiv.org/abs/2510.05052) | - |
 | 2025.09 | **LLM Jailbreak Detection for (Almost) Free!** | arXiv | [link](http://arxiv.org/abs/2509.14558) | [link](https://github.com/GuoruiC/FJD) |
 | 2025.05 | **Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking** | arXiv | [link](https://arxiv.org/pdf/2502.12970?) | [link](https://github.com/chuhac/Reasoning-to-Defend) |
 | 2024.11 | **Rapid Response: Mitigating LLM Jailbreaks with a Few Examples** | arXiv | [link](https://arxiv.org/pdf/2411.07494v1) | [link](https://github.com/rapidresponsebench/rapidresponsebench) |
@@ -435,7 +483,11 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
 | ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.06 | **SentGuard: Sentence-Level Streaming Guardrails for Large Language Models** | arXiv'26 | [link](https://arxiv.org/abs/2606.02041) | - |
+| 2026.05 | **Robust and Efficient Guardrails with Latent Reasoning (CoLaGuard)** | arXiv'26 | [link](https://arxiv.org/abs/2605.29068) | - |
 | 2026.02 | **GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video** | arXiv'26  |          [link](https://arxiv.org/abs/2602.03328)          |                              [link](https://github.com/zzh-thu-22/GuardReasoner-Omni)   
+| 2026.02 | **CourtGuard: A Model-Agnostic Framework for Zero-Shot Policy Adaptation in LLM Safety** | arXiv'26 | [link](https://arxiv.org/abs/2602.22557) | - |
+| 2025.12 | **Taxonomy-Adaptive Moderation Model with Robust Guardrails for Large Language Models** | arXiv'25 | [link](https://arxiv.org/abs/2512.05339) | - |
 | 2025.12 | **OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning** | arXiv'25 | [link](https://arxiv.org/abs/2512.02306) | - |
 | 2025.10 | **Think Twice, Generate Once: Safeguarding by Progressive Self-Reflection (PSR)** | EMNLP'25  |          [link](https://arxiv.org/abs/2510.01270)          |                              [link](https://github.com/VietHoang1512/PSR)                  |
 | 2025.05 | **GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning (GuardReasoner-VL)** | NeurIPS'25  |          [link](https://arxiv.org/abs/2505.11049)          |                              [link](https://github.com/yueliu1999/GuardReasoner-VL/)                               |
@@ -488,9 +540,19 @@ If you find this repository helpful for your research, we would greatly apprecia
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2026.05 | **guard-eval-harness: CLI-first harness for benchmarking guardrail, moderation, and safety classification models** | Toolkit | - | [link](https://github.com/Virtue-Research/guard-eval-harness) |
+| 2026.05 | **Audio Jailbreaks in Large Audio-Language Models: Taxonomy, Attack-Defense Analysis, and Cost-Aware Evaluation** | arXiv | [link](https://arxiv.org/abs/2605.30031) | - |
+| 2026.05 | **Benchmarking Open-Source Safety Guard Models: A Comprehensive Evaluation** | ICLR'26 Workshop | [link](https://arxiv.org/abs/2605.28830) | - |
+| 2026.05 | **MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety** | arXiv | [link](https://arxiv.org/abs/2605.01687) | - |
 | 2026.02 | **AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems** | arXiv | [link](https://arxiv.org/abs/2602.11510) |  [link](https://github.com/Privatris/AgentLeak)  |
 | 2026.02 | **babel-bench: Multilingual Classical Language Safety Benchmark for LLMs (babel-bench)** | ICLR'26 | [link](https://arxiv.org/abs/2602.22983) |  [link](https://github.com/MARUCIE/babel-bench)  |
+| 2026.02 | **Jailbreak Foundry: From Papers to Runnable Attacks for Reproducible Benchmarking** | arXiv | [link](https://arxiv.org/abs/2602.24009) | - |
+| 2026.01 | **Jailbreaking LLMs & VLMs: Mechanisms, Evaluation, and Unified Defense** | arXiv | [link](https://arxiv.org/abs/2601.03594) | - |
+| 2026.01 | **OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs** | arXiv | [link](https://arxiv.org/abs/2601.01592) | [link](https://github.com/AI45Lab/OpenRT) |
+| 2025.12 | **TeleAI-Safety: A Comprehensive LLM Jailbreaking Benchmark towards Attacks, Defenses, and Evaluations** | arXiv | [link](https://arxiv.org/abs/2512.05485) | - |
 | 2025.12 | **Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs** | NeurIPS-W | [link](https://openreview.net/pdf?id=OkNfb8SmLh) | [BlogPost Link](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17) |
+| 2025.11 | **Scaling Patterns in Adversarial Alignment: Evidence from Multi-LLM Jailbreak Experiments** | arXiv | [link](https://arxiv.org/abs/2511.13788) | - |
+| 2025.10 | **The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections** | arXiv | [link](https://arxiv.org/abs/2510.09023) | - |
+| 2025.10 | **Bits Leaked per Query: Information-Theoretic Bounds on Adversarial Attacks against LLMs** | NeurIPS'25 | [link](https://arxiv.org/abs/2510.17000) | - |
 | 2025.08 | **JADES: A Universal Framework for Jailbreak Assessment via Decompositional Scoring** | arXiv | [link](https://arxiv.org/pdf/2508.20848) |  [link](https://trustairlab.github.io/jades.github.io/)  |
 | 2025.06 | **Activation Approximations Can Incur Safety Vulnerabilities Even in Aligned LLMs: Comprehensive Analysis and Defense** | USENIX Security'25 | [link](https://www.arxiv.org/pdf/2502.00840) |  [link](https://github.com/Kevin-Zh-CS/QuadA)  |
 | 2025.05 | **Are Vision-Language Models Safe in the Wild? A Meme-Based Benchmark Study** | EMNLP'25 | [link](https://arxiv.org/pdf/2505.15389) |  [link](https://github.com/oneonlee/Meme-Safety-Bench)  |
