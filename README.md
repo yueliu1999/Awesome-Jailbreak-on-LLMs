@@ -427,6 +427,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.07 | **SovereignAudit: A Prompt-Independent, Deterministic AI Governance Framework** | GitHub | [link](https://github.com/a930529/SovereignAudit-Framework) | - |
 | 2026.06 | **THRD: A Training-Free Multi-Turn Defense Framework for Jailbreak Attacks on Large Language Models** | arXiv | [link](https://arxiv.org/abs/2606.01738) | - |
 | 2026.02 | **Recursive Language Models for Jailbreak Detection: A Procedural Defense for Tool-Augmented Agents** | arXiv | [link](https://arxiv.org/abs/2602.16520) | - |
 | 2025.12 | **Immunity Memory-based Jailbreak Detection: Multi-Agent Adaptive Guard for Large Language Models** | arXiv | [link](https://arxiv.org/abs/2512.03356) | - |
