@@ -217,6 +217,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2026.02 | **Beyond Suffixes: Token Position in GCG Adversarial Attacks on Large Language Models** | arXiv | [link](https://arxiv.org/abs/2602.03265) |    - |
 | 2026.01 | **TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning** | arXiv | [link](https://arxiv.org/abs/2601.12460) |    - |
 | 2025.11 | **TASO: Jailbreak LLMs via Alternative Template and Suffix Optimization** | arXiv | [link](https://arxiv.org/abs/2511.18581) |    - |
+| 2025.11 | **SABER: Uncovering Vulnerabilities in Safety Alignment via Cross-Layer Residual Connection** | EMNLP'25 | [link](https://aclanthology.org/2025.emnlp-main.825/) | [link](https://github.com/PalGitts/SABER) |
 | 2025.10 | **Imperceptible Jailbreaking against Large Language Models** | arXiv | [link](https://arxiv.org/abs/2510.05025) |    - |
 | 2025.10 | **Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs** | arXiv | [link](https://arxiv.org/abs/2510.02833) |    - |
 | 2025.10 | **Dynamic Target Attack** | arXiv | [link](https://arxiv.org/abs/2510.02422) |    - |
