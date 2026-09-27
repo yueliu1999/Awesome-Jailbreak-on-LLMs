@@ -327,6 +327,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2025.10 | **Multimodal Safety Is Asymmetric: Cross-Modal Exploits Unlock Black-Box MLLMs Jailbreaks** | arXiv | [link](https://arxiv.org/abs/2510.17277) | - |
 | 2025.10 | **Sequential Comics for Jailbreaking Multimodal Large Language Models via Structured Visual Storytelling** | arXiv | [link](https://arxiv.org/abs/2510.15068) | - |
 | 2025.10 | **VisualDAN: Exposing Vulnerabilities in VLMs with Visual-Driven DAN Commands** | arXiv | [link](https://arxiv.org/abs/2510.09699) | - |
+| 2025.09 | **Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time** | EMNLP'25 | [link](https://arxiv.org/abs/2509.12521) | [link](https://github.com/Yifan-Lan/Phi) |
 | 2024.11 | **Jailbreak Attacks and Defenses against Multimodal Generative Models: A Survey** | arXiv | [link](https://arxiv.org/pdf/2411.09259) | [link](https://github.com/liuxuannan/Awesome-Multimodal-Jailbreak) |
 | 2024.10 | **Chain-of-Jailbreak Attack for Image Generation Models via Editing Step by Step** | arXiv | [link](https://arxiv.org/pdf/2410.03869) | - |
 | 2024.10 | **ColJailBreak: Collaborative Generation and Editing for Jailbreaking Text-to-Image Deep Generation** | NeurIPS'24 | [Link](https://nips.cc/virtual/2024/poster/94287) | - |
