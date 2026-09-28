@@ -654,6 +654,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 ## Other Related Awesome Repository
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
+- [Continuum-AI-Corp/OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) — a dated archive of the system prompts and tool schemas shipped AI products actually send, for checking an extracted prompt against a captured one.
 
 - [Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP)
 - [llm-sp](https://github.com/chawins/llm-sp)
