@@ -487,6 +487,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 
 | Time    | Title                                                        |   Venue    |                            Paper                             |                             Code                             |
 | ------- | ------------------------------------------------------------ | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.09 | **HS-Guard Technical Report: Policy-Specific Streaming Moderation with a Hybrid-State Classifier (HS-Guard)** | Tech Report | [link](https://github.com/KrisLiu16/HS-Guard/blob/main/docs/technical_report.pdf) | [link](https://github.com/KrisLiu16/HS-Guard) |
 | 2026.06 | **SentGuard: Sentence-Level Streaming Guardrails for Large Language Models** | arXiv'26 | [link](https://arxiv.org/abs/2606.02041) | - |
 | 2026.05 | **Robust and Efficient Guardrails with Latent Reasoning (CoLaGuard)** | arXiv'26 | [link](https://arxiv.org/abs/2605.29068) | - |
 | 2026.02 | **GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video** | arXiv'26  |          [link](https://arxiv.org/abs/2602.03328)          |                              [link](https://github.com/zzh-thu-22/GuardReasoner-Omni)   
