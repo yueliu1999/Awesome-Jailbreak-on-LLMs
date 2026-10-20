@@ -544,6 +544,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 ### Evaluation \& Analysis
 | Time | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2026.10 | **Policy Is Not Capability: Some Safety Benchmarks Measure Which Definition of "Unsafe" You Trained On** | NeurIPS'26 Workshop | [link](https://arxiv.org/abs/2610.25060) | - |
 | 2026.09 | **AgentShield Benchmark: open 537-case corpus for head-to-head scoring of agent security guardrails across 7 categories, incl. jailbreak and prompt injection (maintained by the Agent Guard team, whose own product currently ranks first on it)** | Toolkit | - | [link](https://github.com/doronp/agentshield-benchmark) |
 | 2026.05 | **guard-eval-harness: CLI-first harness for benchmarking guardrail, moderation, and safety classification models** | Toolkit | - | [link](https://github.com/Virtue-Research/guard-eval-harness) |
 | 2026.05 | **Audio Jailbreaks in Large Audio-Language Models: Taxonomy, Attack-Defense Analysis, and Cost-Aware Evaluation** | arXiv | [link](https://arxiv.org/abs/2605.30031) | - |
