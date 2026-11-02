@@ -76,7 +76,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### Attack on LRMs
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
-| 2026.05 | **Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs** | arXiv  | [link](https://arxiv.org/abs/2605.24497) | - |
+| 2026.05 | **Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs** | arXiv  | [link](https://arxiv.org/abs/2605.24497) | [link](https://github.com/xqpsec/dsh-jalibreak) |
 | 2025.11 | **BadThink: Triggered Overthinking Attacks on Chain-of-Thought Reasoning in Large Language Models** | AAAI'26  | [link](https://arxiv.org/abs/2511.10714) | - |
 | 2025.10 | **When Models Outthink Their Safety: Unveiling and Mitigating Self-Jailbreak in Large Reasoning Models** | arXiv  | [link](https://arxiv.org/abs/2510.21285) | - |
 | 2025.10 | **AutoDAN-Reasoning: Enhancing Strategies Exploration based Jailbreak Attacks with Test-Time Scaling** | arXiv  | [link](https://arxiv.org/abs/2510.05379) | [link](https://github.com/SaFoLab-WISC/AutoDAN-Reasoning) |
