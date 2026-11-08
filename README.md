@@ -76,7 +76,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 #### Attack on LRMs
 | Time    | Title                                                        | Venue |                  Paper                   |                             Code                             |
 | ------- | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
-| 2026.05 | **Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs** | arXiv  | [link](https://arxiv.org/abs/2605.24497) | - |
+| 2026.05 | **Reasoning as an Attack Surface: Adaptive Evolutionary CoT Jailbreaks for LLMs** | arXiv  | [link](https://arxiv.org/abs/2605.24497) | [link](https://github.com/xqpsec/dsh-jalibreak) |
 | 2025.11 | **BadThink: Triggered Overthinking Attacks on Chain-of-Thought Reasoning in Large Language Models** | AAAI'26  | [link](https://arxiv.org/abs/2511.10714) | - |
 | 2025.10 | **When Models Outthink Their Safety: Unveiling and Mitigating Self-Jailbreak in Large Reasoning Models** | arXiv  | [link](https://arxiv.org/abs/2510.21285) | - |
 | 2025.10 | **AutoDAN-Reasoning: Enhancing Strategies Exploration based Jailbreak Attacks with Test-Time Scaling** | arXiv  | [link](https://arxiv.org/abs/2510.05379) | [link](https://github.com/SaFoLab-WISC/AutoDAN-Reasoning) |
@@ -558,6 +558,7 @@ If you find this repository helpful for your research, we would greatly apprecia
 | 2025.12 | **TeleAI-Safety: A Comprehensive LLM Jailbreaking Benchmark towards Attacks, Defenses, and Evaluations** | arXiv | [link](https://arxiv.org/abs/2512.05485) | - |
 | 2025.12 | **Compressed but Compromised? A Study of Jailbreaking in Compressed LLMs** | NeurIPS-W | [link](https://openreview.net/pdf?id=OkNfb8SmLh) | [BlogPost Link](https://namburisrinath.medium.com/compressed-but-compromised-a-study-of-jailbreaking-in-compressed-llms-02a6e40aaf17) |
 | 2025.11 | **Scaling Patterns in Adversarial Alignment: Evidence from Multi-LLM Jailbreak Experiments** | arXiv | [link](https://arxiv.org/abs/2511.13788) | - |
+| 2025.10 | **SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses** | IEEE S&P'27 (accepted) | [link](https://arxiv.org/abs/2510.15476) | [link](https://github.com/datasec-lab/PromptSecurity) |
 | 2025.10 | **The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against LLM Jailbreaks and Prompt Injections** | arXiv | [link](https://arxiv.org/abs/2510.09023) | - |
 | 2025.10 | **Bits Leaked per Query: Information-Theoretic Bounds on Adversarial Attacks against LLMs** | NeurIPS'25 | [link](https://arxiv.org/abs/2510.17000) | - |
 | 2025.08 | **JADES: A Universal Framework for Jailbreak Assessment via Decompositional Scoring** | arXiv | [link](https://arxiv.org/pdf/2508.20848) |  [link](https://trustairlab.github.io/jades.github.io/)  |
